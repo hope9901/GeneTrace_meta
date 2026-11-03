@@ -19,3 +19,10 @@ data/ecoli100_reads_20261102/fastq/
 data/ecoli100_orthology_20261102/
 data/bacteria_full/
 data/contamination_validation_20261102/
+
+# Local stop/resume bookkeeping
+**/shutdown_checkpoint_*.json
+**/orthology_stop_checkpoint_*.json
+**/resume_*.json
+**/scheduled_stop_*.json
+**/cancel_scheduled_stop_*
