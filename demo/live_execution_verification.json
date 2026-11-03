@@ -1,0 +1,13 @@
+{
+  "report_id": "f64d1b2f2a5c4761b1d023d3bd125796",
+  "model": "muse-spark-1.3",
+  "successful_model_calls": 5,
+  "fresh_tool_count": 4,
+  "elapsed_seconds": 38.325,
+  "input_read_pairs": 756,
+  "partial_reference_selected_input": true,
+  "causal_diagnosis": "unresolved",
+  "guard_interventions": 0,
+  "source_report": "demo/verified_execution_report.json",
+  "video": "media/GeneTrace_EN.mp4"
+}
