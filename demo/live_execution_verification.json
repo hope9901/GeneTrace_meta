@@ -9,5 +9,5 @@
   "causal_diagnosis": "unresolved",
   "guard_interventions": 0,
   "source_report": "demo/verified_execution_report.json",
-  "video": "media/GeneTrace_EN.mp4"
+  "video_distribution": "Separate from the repository; local copy retained."
 }

@@ -6,9 +6,9 @@ GeneTrace is a research assistant that connects same-species population context,
 
 Built for the Meta Global AI Developer Hackathon, Indie Dev Track. The investigation workflow, evidence guards, analysis scripts and interfaces were built during the event. NCBI/ENA data and established third-party tools are credited separately below.
 
-## Demo video
+## Demo materials
 
-[Watch or download the 2m56s English video](media/GeneTrace_EN.mp4) · [English subtitles](media/GeneTrace_EN.srt) · [Narration](media/NARRATION_EN.md). Actual execution captures are time-condensed; explanatory cards are interleaved. Video files are included in the public repository.
+The video is distributed separately and is not included in this repository. [English subtitles](media/GeneTrace_EN.srt) and [narration](media/NARRATION_EN.md) are available as supporting materials.
 
 ## Run the small submission demo
 

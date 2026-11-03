@@ -2,12 +2,12 @@
   "project_name": "GeneTrace",
   "track": "Indie Dev Track",
   "repository_url": "https://github.com/hope9901/GeneTrace_meta",
-  "video_url": "https://github.com/hope9901/GeneTrace_meta/blob/main/media/GeneTrace_EN.mp4",
+  "video_url": "",
   "public_demo_url": "",
   "owner_license_review_complete": false,
   "internal_target": "2026-11-04 morning Asia/Seoul",
   "live_Meta_verification": "verified: demo/live_meta_verification.json",
   "distribution_note": "Public source visibility authorized by owner; no open-source license grant selected.",
   "fresh_execution_verification": "demo/verified_execution_report.json",
-  "video_format": "Public MP4 file in repository; verify submission platform accepts this link or rehost on video platform."
+  "video_format": "Video retained locally; upload separately and set the submission video URL."
 }
