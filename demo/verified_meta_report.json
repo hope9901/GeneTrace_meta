@@ -1,0 +1,688 @@
+{
+  "id": "d0fa5fae4c3645ca96f02ca68ac0b8ed",
+  "case_id": "nimt",
+  "mode": "meta",
+  "status": "complete",
+  "created_utc": "2026-11-03T05:53:42.490116+00:00",
+  "model_calls": 4,
+  "evidence": [
+    {
+      "id": "E001",
+      "tool": "lookup_cohort_comparison",
+      "title": "집단·계통·주변 유전자",
+      "result": {
+        "assembly": "GCF_001558995.2",
+        "gene": "nimT",
+        "group": "HG001525",
+        "dna_classification": "partial_or_divergent_DNA_homolog_unresolved",
+        "query_coverage": 0.6972010178117048,
+        "identity": 99.635,
+        "both_syntenic_flanks": true,
+        "recorded_disruption": true,
+        "nearest_neighbors": [
+          {
+            "assembly": "GCF_000803705.1",
+            "distance": 0.0,
+            "bioproject": "PRJNA201344",
+            "sequencing_group": "Ion Torrent PGM sequencer",
+            "protein_cluster_copies": 1
+          },
+          {
+            "assembly": "GCF_001612475.1",
+            "distance": 0.0,
+            "bioproject": "PRJNA299666",
+            "sequencing_group": "PacBio; IonTorrent",
+            "protein_cluster_copies": 1
+          },
+          {
+            "assembly": "GCF_004010595.1",
+            "distance": 0.0,
+            "bioproject": "PRJNA218110",
+            "sequencing_group": "PacBio",
+            "protein_cluster_copies": 1
+          },
+          {
+            "assembly": "GCF_004010695.1",
+            "distance": 0.0,
+            "bioproject": "PRJNA218110",
+            "sequencing_group": "PacBio",
+            "protein_cluster_copies": 1
+          },
+          {
+            "assembly": "GCF_005221545.1",
+            "distance": 0.0,
+            "bioproject": "PRJNA445267",
+            "sequencing_group": "PacBio",
+            "protein_cluster_copies": 1
+          }
+        ],
+        "technical_strata": [
+          {
+            "field": "bioproject",
+            "focal": "PRJNA322195",
+            "other_assemblies": 0,
+            "missing_protein_cluster": 0,
+            "interpretation": "Descriptive; related strains/project batches are not independent and no causal platform effect is inferred."
+          },
+          {
+            "field": "sequencing_group",
+            "focal": "PacBio",
+            "other_assemblies": 42,
+            "missing_protein_cluster": 0,
+            "interpretation": "Descriptive; related strains/project batches are not independent and no causal platform effect is inferred."
+          }
+        ],
+        "raw_run_candidate": "SRR2762258",
+        "causal_diagnosis": "unresolved"
+      },
+      "sources": [
+        {
+          "path": "outputs/ecoli100_candidate_audit_20261102/context.json",
+          "sha256": "988acf96d0efb59edc53fcd5814dd4515725bb4df0efe81d36f05a91767355c0"
+        }
+      ],
+      "acquisition": "lookup_completed_analysis_snapshot"
+    },
+    {
+      "id": "E002",
+      "tool": "inspect_annotation",
+      "title": "DNA 상동성과 구조 주석",
+      "result": {
+        "best_genome_hit": {
+          "qseqid": "center",
+          "sseqid": "NZ_CP014314.1",
+          "pident": 99.635,
+          "length": 274,
+          "qstart": 1,
+          "qend": 274,
+          "sstart": 1584260,
+          "send": 1583439,
+          "evalue": 0.0,
+          "bitscore": 536.0,
+          "qlen": 393,
+          "qseq": "MTCSTSLSGKNRIVLIAGILMIATTLRVTFTGAAPLLDTIRSAYSLTTAQTGLLTTLPLLAFALISPLAAPVARRFGMERSLFAALLLICAGIAIRSLPSPYLLFGGTAVIGGGIALGNVLLPGLIKRDFPHSVARLTGAYSLTMGAAAALGSAMVVPLALNGFGWQGALLMLMCFPLLALFLWLPQWRSQQHANLSTSRALHTRGIWRSPLAWQVTLFLGINSLVYYVIIGWLPAILISHGYSEAQAGSLHGLLQLATAAPGLLIPLFLHHVK",
+          "sseq": "MTCSTSLSGKNRIVLIAGILMIATTLRVTFTGAAPLLDTIRSAYSLTTAQTGLLTTLPLLAFALISPLAAPVARRFGMERSLFAALLLICAGIAIRSLPSPYLLFGGTAVIGGGIALGNVLLPGLIKRDFPHSVARLTGAYSLTMGAAAALGSAMVVPLALNGFGWQGALLMLMCFPLLALFLWLPQWRSQQHANLSTSRALHTRGIWRSPLAWQVTLFLGINSLVYYVIIGWLPAILISHGYSEAQAGSLHGLLQLATAAPGLLIPLFLHHVE",
+          "query_coverage": 0.6972010178117048,
+          "start": 1583439,
+          "end": 1584260,
+          "strand": "-",
+          "passes_thresholds": true
+        },
+        "overlapping_cds": [
+          {
+            "start": 1583078,
+            "end": 1584260,
+            "attrs": {
+              "ID": "cds-JEONG1266_RS08425",
+              "Parent": "gene-JEONG1266_RS08425",
+              "Note": "frameshifted",
+              "gbkey": "CDS",
+              "gene": "nimT",
+              "inference": "COORDINATES: similar to AA sequence:RefSeq:NP_310527.1",
+              "locus_tag": "JEONG1266_RS08425",
+              "product": "2-nitroimidazole transporter",
+              "pseudo": "true",
+              "transl_table": "11"
+            }
+          }
+        ],
+        "both_flanks": true,
+        "cluster_absence_is_not_gene_loss": true
+      },
+      "sources": [
+        {
+          "path": "outputs/ecoli100_candidate_audit_20261102/results.json",
+          "sha256": "ef7b4bdb76490bdb73ad09a8f4f9b24e9cee33312758b4050b82b4c4821264ba"
+        }
+      ],
+      "acquisition": "lookup_completed_analysis_snapshot"
+    },
+    {
+      "id": "E003",
+      "tool": "lookup_read_evidence",
+      "title": "Read 출처·품질·무결성",
+      "result": {
+        "run": "SRR2762258",
+        "whole_run_files_verified": true,
+        "assembly_run_version_use_verified": false,
+        "read_provenance": {
+          "sampled_primary_records": 2508,
+          "modal_same_strand_start_step_bp": 2,
+          "modal_start_step_fraction": 0.057274826789838335,
+          "modal_absolute_template_length": 703,
+          "modal_template_length_fraction": 0.007211538461538462,
+          "modal_quality_character_fraction": 0.2507682527098284,
+          "zero_edit_distance_fraction": 0.13995215311004786,
+          "provenance_review_required": false,
+          "independent_physical_read_validation_established": false,
+          "synthetic_data_confirmed": false
+        }
+      },
+      "sources": [
+        {
+          "path": "outputs/ecoli100_raw_validation_20261102/summary.json",
+          "sha256": "3842ba1bf45d908ce1dc0ef9d19a28788e1f92a2aa05f6649c0586804c395e27"
+        }
+      ],
+      "acquisition": "lookup_completed_analysis_snapshot"
+    },
+    {
+      "id": "E004",
+      "tool": "lookup_regional_qc",
+      "title": "후보와 인접 대조 구간",
+      "result": {
+        "candidate": {
+          "region": {
+            "seqid": "NZ_CP014314.1",
+            "start": 1583078,
+            "end": 1584260
+          },
+          "metrics": {
+            "raw_alignment_records": 421,
+            "usable_primary_records": 190,
+            "excluded": {
+              "mapq_filtered_or_unavailable": 4,
+              "flag_filtered": 4
+            },
+            "supplementary_records": 1,
+            "mean_depth": 31.37024513947591,
+            "median_depth": 31,
+            "covered_fraction": 1.0,
+            "mismatch_fraction": 0.030853385788580205,
+            "aligned_callable_bases": 37111,
+            "mismatches": 1145,
+            "insertion_bases": 1,
+            "deletion_bases": 24,
+            "spanning_plus100_records": 0,
+            "spanning_forward": 0,
+            "spanning_reverse": 0,
+            "boundary_clipped_fraction": 0.005263157894736842,
+            "left_flank_mean_depth": 35.9,
+            "right_flank_mean_depth": 32.46,
+            "n_fraction": 0.0
+          },
+          "signals": [
+            "coherent_substitution_disagreement",
+            "coherent_indel_disagreement"
+          ],
+          "coherent_substitutions": [
+            {
+              "position": 1583105,
+              "reference": "A",
+              "depth": 31,
+              "counts": {
+                "C": 1,
+                "G": 30
+              },
+              "top_alt": "G",
+              "alt_records": 30,
+              "alt_fraction": 0.967741935483871,
+              "alt_forward": 16,
+              "alt_reverse": 14
+            },
+            {
+              "position": 1583141,
+              "reference": "T",
+              "depth": 33,
+              "counts": {
+                "G": 33
+              },
+              "top_alt": "G",
+              "alt_records": 33,
+              "alt_fraction": 1.0,
+              "alt_forward": 16,
+              "alt_reverse": 17
+            },
+            {
+              "position": 1583153,
+              "reference": "T",
+              "depth": 34,
+              "counts": {
+                "C": 34
+              },
+              "top_alt": "C",
+              "alt_records": 34,
+              "alt_fraction": 1.0,
+              "alt_forward": 17,
+              "alt_reverse": 17
+            },
+            {
+              "position": 1583221,
+              "reference": "A",
+              "depth": 33,
+              "counts": {
+                "G": 33
+              },
+              "top_alt": "G",
+              "alt_records": 33,
+              "alt_fraction": 1.0,
+              "alt_forward": 17,
+              "alt_reverse": 16
+            },
+            {
+              "position": 1583279,
+              "reference": "A",
+              "depth": 30,
+              "counts": {
+                "T": 30
+              },
+              "top_alt": "T",
+              "alt_records": 30,
+              "alt_fraction": 1.0,
+              "alt_forward": 16,
+              "alt_reverse": 14
+            },
+            {
+              "position": 1583285,
+              "reference": "C",
+              "depth": 30,
+              "counts": {
+                "A": 30
+              },
+              "top_alt": "A",
+              "alt_records": 30,
+              "alt_fraction": 1.0,
+              "alt_forward": 16,
+              "alt_reverse": 14
+            },
+            {
+              "position": 1583372,
+              "reference": "G",
+              "depth": 32,
+              "counts": {
+                "A": 32
+              },
+              "top_alt": "A",
+              "alt_records": 32,
+              "alt_fraction": 1.0,
+              "alt_forward": 19,
+              "alt_reverse": 13
+            },
+            {
+              "position": 1583387,
+              "reference": "C",
+              "depth": 30,
+              "counts": {
+                "A": 30
+              },
+              "top_alt": "A",
+              "alt_records": 30,
+              "alt_fraction": 1.0,
+              "alt_forward": 18,
+              "alt_reverse": 12
+            },
+            {
+              "position": 1583435,
+              "reference": "G",
+              "depth": 27,
+              "counts": {
+                "A": 27
+              },
+              "top_alt": "A",
+              "alt_records": 27,
+              "alt_fraction": 1.0,
+              "alt_forward": 18,
+              "alt_reverse": 9
+            },
+            {
+              "position": 1583460,
+              "reference": "T",
+              "depth": 22,
+              "counts": {
+                "A": 22
+              },
+              "top_alt": "A",
+              "alt_records": 22,
+              "alt_fraction": 1.0,
+              "alt_forward": 14,
+              "alt_reverse": 8
+            },
+            {
+              "position": 1583521,
+              "reference": "T",
+              "depth": 25,
+              "counts": {
+                "A": 25
+              },
+              "top_alt": "A",
+              "alt_records": 25,
+              "alt_fraction": 1.0,
+              "alt_forward": 12,
+              "alt_reverse": 13
+            },
+            {
+              "position": 1583539,
+              "reference": "T",
+              "depth": 29,
+              "counts": {
+                "C": 29
+              },
+              "top_alt": "C",
+              "alt_records": 29,
+              "alt_fraction": 1.0,
+              "alt_forward": 15,
+              "alt_reverse": 14
+            }
+          ],
+          "coherent_substitution_count": 29,
+          "coherent_indels": [
+            {
+              "kind": "D",
+              "position": 1583441,
+              "sequence": "C",
+              "length": 1,
+              "raw_supporting_records": 21,
+              "supporting_records": 21,
+              "spanning_record_denominator": 23,
+              "support_fraction": 0.9130434782608695,
+              "forward": 15,
+              "reverse": 6,
+              "coherent": true
+            }
+          ],
+          "variant_calls_made": false,
+          "causal_diagnosis": "unresolved"
+        },
+        "neighbor_regions": [
+          {
+            "name": "nimR",
+            "seqid": "NZ_CP014314.1",
+            "start": 1584357,
+            "end": 1585178,
+            "role": "local_neighbor_control",
+            "signals": [
+              "coherent_substitution_disagreement"
+            ],
+            "metrics": {
+              "raw_alignment_records": 364,
+              "usable_primary_records": 122,
+              "excluded": {
+                "mapq_filtered_or_unavailable": 4,
+                "flag_filtered": 1
+              },
+              "supplementary_records": 0,
+              "mean_depth": 26.913625304136254,
+              "median_depth": 27.0,
+              "covered_fraction": 1.0,
+              "mismatch_fraction": 0.020657234552275913,
+              "aligned_callable_bases": 22123,
+              "mismatches": 457,
+              "insertion_bases": 0,
+              "deletion_bases": 1,
+              "spanning_plus100_records": 0,
+              "spanning_forward": 0,
+              "spanning_reverse": 0,
+              "boundary_clipped_fraction": 0.00819672131147541,
+              "left_flank_mean_depth": 32.68,
+              "right_flank_mean_depth": 29.63,
+              "n_fraction": 0.0
+            },
+            "coherent_substitution_count": 15,
+            "coherent_indel_count": 0,
+            "quality_information_unresolved": false
+          },
+          {
+            "name": "yeaO",
+            "seqid": "NZ_CP014314.1",
+            "start": 1582676,
+            "end": 1583023,
+            "role": "local_neighbor_control",
+            "signals": [
+              "coherent_substitution_disagreement"
+            ],
+            "metrics": {
+              "raw_alignment_records": 306,
+              "usable_primary_records": 71,
+              "excluded": {
+                "mapq_filtered_or_unavailable": 2,
+                "flag_filtered": 4
+              },
+              "supplementary_records": 1,
+              "mean_depth": 32.985632183908045,
+              "median_depth": 36.0,
+              "covered_fraction": 1.0,
+              "mismatch_fraction": 0.019601010540987892,
+              "aligned_callable_bases": 11479,
+              "mismatches": 225,
+              "insertion_bases": 0,
+              "deletion_bases": 1,
+              "spanning_plus100_records": 0,
+              "spanning_forward": 0,
+              "spanning_reverse": 0,
+              "boundary_clipped_fraction": 0.0,
+              "left_flank_mean_depth": 13.71,
+              "right_flank_mean_depth": 32.96,
+              "n_fraction": 0.0
+            },
+            "coherent_substitution_count": 5,
+            "coherent_indel_count": 0,
+            "quality_information_unresolved": false
+          }
+        ],
+        "read_provenance": {
+          "sampled_primary_records": 2508,
+          "modal_same_strand_start_step_bp": 2,
+          "modal_start_step_fraction": 0.057274826789838335,
+          "modal_absolute_template_length": 703,
+          "modal_template_length_fraction": 0.007211538461538462,
+          "modal_quality_character_fraction": 0.2507682527098284,
+          "zero_edit_distance_fraction": 0.13995215311004786,
+          "provenance_review_required": false,
+          "independent_physical_read_validation_established": false,
+          "synthetic_data_confirmed": false
+        }
+      },
+      "sources": [
+        {
+          "path": "outputs/ecoli100_raw_validation_20261102/GCF_001558995.2_0.json",
+          "sha256": "a4a335fde12cded5885b092f7948f8470b2b3b40171efc714cadfc8686faec1d"
+        }
+      ],
+      "acquisition": "lookup_completed_analysis_snapshot"
+    }
+  ],
+  "hypotheses": [
+    {
+      "text": "Provisional interpretation: nimT shows partial/divergent DNA homology (query coverage ~0.697, identity 99.635) with both syntenic flanks present and annotated as frameshifted pseudo; this is unresolved homology, not proof of orthology, function, or gene loss.",
+      "evidence_ids": [
+        "E001",
+        "E002"
+      ]
+    },
+    {
+      "text": "Provisional interpretation: candidate region shows coherent substitution (n=29) and indel disagreement with reads at ~31x mean depth, but neighboring controls nimR (15 coherent substitutions) and yeaO (5) show similar coherent disagreement signals, so a local-only assembly problem cannot be diagnosed; same alternate pattern could reflect true variant, assembly error, or systematic read error.",
+      "evidence_ids": [
+        "E004",
+        "E001"
+      ]
+    },
+    {
+      "text": "Limitation: read/assembly relationship is unresolved because assembly use of run SRR2762258 is not version-verified and independent physical read validation was not established; provenance_review_required is false, so no regular-tiling/fixed-template claim is made.",
+      "evidence_ids": [
+        "E003",
+        "E004"
+      ]
+    },
+    {
+      "text": "Limitation: cohort comparison is descriptive only; focal BioProject PRJNA322195 has 0 other assemblies and PacBio stratum has 42 others with 0 missing cluster, but related strains/project batches are non-independent and technology/project/relatedness confound frequencies, so no causal platform effect is inferred.",
+      "evidence_ids": [
+        "E001"
+      ]
+    }
+  ],
+  "trace": [
+    {
+      "kind": "evidence_lookup",
+      "tool": "lookup_cohort_comparison"
+    },
+    {
+      "kind": "live_meta_planner",
+      "step": {
+        "next_tool": "inspect_annotation",
+        "hypotheses": [
+          {
+            "text": "nimT read-assembly relationship remains unresolved and a local assembly problem is not confirmed; provisional interpretation only.",
+            "evidence_ids": [
+              "E001"
+            ]
+          },
+          {
+            "text": "Syntenic flanks are retained with recorded disruption and partial DNA homology, requiring neighboring-control and read-level checks before any causal claim.",
+            "evidence_ids": [
+              "E001"
+            ]
+          }
+        ],
+        "reason": "Need annotation context for nimT disruption and syntenic flanks before interpreting read signals; cohort comparison alone is insufficient."
+      },
+      "usage": {
+        "completion_tokens": 681,
+        "prompt_tokens": 1045,
+        "total_tokens": 1726,
+        "completion_tokens_details": {
+          "reasoning_tokens": 557
+        },
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "response_model": "muse-spark-1.3"
+      }
+    },
+    {
+      "kind": "evidence_lookup",
+      "tool": "inspect_annotation"
+    },
+    {
+      "kind": "live_meta_planner",
+      "step": {
+        "next_tool": "lookup_read_evidence",
+        "hypotheses": [
+          {
+            "text": "Provisional: nimT read-assembly relationship remains unresolved; partial coverage (~0.70) and annotated frameshift do not by themselves confirm local assembly error.",
+            "evidence_ids": [
+              "E001",
+              "E002"
+            ]
+          },
+          {
+            "text": "Provisional: syntenic flanks present in both E001 and E002 provide neighboring control context, but do not resolve whether mismatch reflects true variation, assembly error, or systematic read error.",
+            "evidence_ids": [
+              "E001",
+              "E002"
+            ]
+          }
+        ],
+        "reason": "E001-E002 show partial/divergent DNA homolog with frameshift annotation but unresolved causality; read-level evidence is required before interpreting as assembly problem, per mandatory tool sequence."
+      },
+      "usage": {
+        "completion_tokens": 761,
+        "prompt_tokens": 1737,
+        "total_tokens": 2498,
+        "completion_tokens_details": {
+          "reasoning_tokens": 592
+        },
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "response_model": "muse-spark-1.3"
+      }
+    },
+    {
+      "kind": "evidence_lookup",
+      "tool": "lookup_read_evidence"
+    },
+    {
+      "kind": "live_meta_planner",
+      "step": {
+        "next_tool": "lookup_regional_qc",
+        "hypotheses": [
+          {
+            "text": "The nimT read-assembly disagreement is currently unresolved and does not by itself indicate a confirmed local assembly problem, because exact run/version use for the assembly is unverified and independent physical read validation was not established.",
+            "evidence_ids": [
+              "E001",
+              "E003"
+            ]
+          },
+          {
+            "text": "Syntenic flanks on both sides are present and closest same-species cohort neighbors show short distance, but cohort frequencies are confounded by project/technology relatedness and cluster absence is not gene loss, so this neighboring context does not resolve causality.",
+            "evidence_ids": [
+              "E001",
+              "E002"
+            ]
+          }
+        ],
+        "reason": "Regional QC around nimT has not yet been reviewed in snapshot; it is needed before judging whether disagreement indicates a local assembly problem or remains unresolved."
+      },
+      "usage": {
+        "completion_tokens": 666,
+        "prompt_tokens": 1995,
+        "total_tokens": 2661,
+        "completion_tokens_details": {
+          "reasoning_tokens": 482
+        },
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "response_model": "muse-spark-1.3"
+      }
+    },
+    {
+      "kind": "evidence_lookup",
+      "tool": "lookup_regional_qc"
+    },
+    {
+      "kind": "live_meta_conclusion",
+      "step": {
+        "next_tool": null,
+        "hypotheses": [
+          {
+            "text": "Provisional interpretation: nimT shows partial/divergent DNA homology (query coverage ~0.697, identity 99.635) with both syntenic flanks present and annotated as frameshifted pseudo; this is unresolved homology, not proof of orthology, function, or gene loss.",
+            "evidence_ids": [
+              "E001",
+              "E002"
+            ]
+          },
+          {
+            "text": "Provisional interpretation: candidate region shows coherent substitution (n=29) and indel disagreement with reads at ~31x mean depth, but neighboring controls nimR (15 coherent substitutions) and yeaO (5) show similar coherent disagreement signals, so a local-only assembly problem cannot be diagnosed; same alternate pattern could reflect true variant, assembly error, or systematic read error.",
+            "evidence_ids": [
+              "E004",
+              "E001"
+            ]
+          },
+          {
+            "text": "Limitation: read/assembly relationship is unresolved because assembly use of run SRR2762258 is not version-verified and independent physical read validation was not established; provenance_review_required is false, so no regular-tiling/fixed-template claim is made.",
+            "evidence_ids": [
+              "E003",
+              "E004"
+            ]
+          },
+          {
+            "text": "Limitation: cohort comparison is descriptive only; focal BioProject PRJNA322195 has 0 other assemblies and PacBio stratum has 42 others with 0 missing cluster, but related strains/project batches are non-independent and technology/project/relatedness confound frequencies, so no causal platform effect is inferred.",
+            "evidence_ids": [
+              "E001"
+            ]
+          }
+        ],
+        "reason": "All case evidence inspected; relationship remains unresolved so summarizing provisional interpretations and limitations."
+      },
+      "usage": {
+        "completion_tokens": 813,
+        "prompt_tokens": 3973,
+        "total_tokens": 4786,
+        "completion_tokens_details": {
+          "reasoning_tokens": 460
+        },
+        "prompt_tokens_details": {
+          "cached_tokens": 241
+        },
+        "response_model": "muse-spark-1.3"
+      }
+    }
+  ],
+  "case_title": "Read–assembly 불일치",
+  "model_id": "muse-spark-1.3",
+  "next_check": "Verify exact run-to-assembly-version provenance and independently inspect the locus; population and read disagreements do not establish cause.",
+  "analysis_execution": "Saved analysis lookup only; live model inference only when mode=meta and model_calls>0",
+  "causal_diagnosis": "unresolved",
+  "biological_loss_inferred": false
+}

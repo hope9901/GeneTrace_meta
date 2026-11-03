@@ -1,0 +1,300 @@
+{
+  "id": "provenance",
+  "title": "완벽한 read 지지도 출처 확인이 필요하다",
+  "assembly": "GCF_013112335.1",
+  "gene": "tonB",
+  "question": "Can these perfectly matching reads serve as independent physical sequencing validation?",
+  "tools": [
+    {
+      "tool": "lookup_cohort_comparison",
+      "title": "집단·계통·주변 유전자",
+      "data": {
+        "assembly": "GCF_013112335.1",
+        "gene": "tonB",
+        "group": "HG001065",
+        "dna_classification": "DNA_homolog_present_missing_protein_cluster_unresolved",
+        "query_coverage": 1.0,
+        "identity": 98.755,
+        "both_syntenic_flanks": true,
+        "recorded_disruption": false,
+        "nearest_neighbors": [
+          {
+            "assembly": "GCF_057221815.1",
+            "distance": 0.007684595000000001,
+            "bioproject": "PRJNA1426448",
+            "sequencing_group": "Oxford Nanopore",
+            "protein_cluster_copies": 1
+          },
+          {
+            "assembly": "GCF_057221835.1",
+            "distance": 0.007684595000000001,
+            "bioproject": "PRJNA1426448",
+            "sequencing_group": "Oxford Nanopore",
+            "protein_cluster_copies": 1
+          },
+          {
+            "assembly": "GCF_052882235.1",
+            "distance": 0.008146807,
+            "bioproject": "PRJNA1262528",
+            "sequencing_group": "Oxford Nanopore",
+            "protein_cluster_copies": 1
+          },
+          {
+            "assembly": "GCF_040543435.1",
+            "distance": 0.008608359,
+            "bioproject": "PRJNA1119654",
+            "sequencing_group": "Oxford Nanopore PromethION",
+            "protein_cluster_copies": 1
+          },
+          {
+            "assembly": "GCF_040543495.1",
+            "distance": 0.008608359,
+            "bioproject": "PRJNA1119654",
+            "sequencing_group": "Oxford Nanopore PromethION",
+            "protein_cluster_copies": 1
+          }
+        ],
+        "technical_strata": [
+          {
+            "field": "bioproject",
+            "focal": "PRJNA616250",
+            "other_assemblies": 0,
+            "missing_protein_cluster": 0,
+            "interpretation": "Descriptive; related strains/project batches are not independent and no causal platform effect is inferred."
+          },
+          {
+            "field": "sequencing_group",
+            "focal": "Nanopore",
+            "other_assemblies": 10,
+            "missing_protein_cluster": 0,
+            "interpretation": "Descriptive; related strains/project batches are not independent and no causal platform effect is inferred."
+          }
+        ],
+        "raw_run_candidate": "SRR11451201",
+        "causal_diagnosis": "unresolved"
+      },
+      "sources": [
+        {
+          "path": "outputs/ecoli100_candidate_audit_20261102/context.json",
+          "sha256": "988acf96d0efb59edc53fcd5814dd4515725bb4df0efe81d36f05a91767355c0"
+        }
+      ]
+    },
+    {
+      "tool": "inspect_annotation",
+      "title": "DNA 상동성과 구조 주석",
+      "data": {
+        "best_genome_hit": {
+          "qseqid": "center",
+          "sseqid": "NZ_CP053259.1",
+          "pident": 98.755,
+          "length": 241,
+          "qstart": 1,
+          "qend": 239,
+          "sstart": 2565093,
+          "send": 2564371,
+          "evalue": 2.66e-156,
+          "bitscore": 477.0,
+          "qlen": 239,
+          "qseq": "MTLDLPRRFPWPTLLSVCIHGAVVAGLLYTSVHQVIELPAPAQPISVTMVTPADLEPPQAVQPPPEPVVEPEPEPEP--IPEPPKEAPVVIEKPKPKPKPKPKPVKKVQEQPKRDVKPVESRPASPFENTAPARLTSSTATAATSKPVTSVASGPRALSRNQPQYPARAQALRIEGQVKVKFDVTPDGRVDNVQILSAKPANMFEREVKNAMRRWRYEPGKPGSGIVVNILFKINGTTEIQ",
+          "sseq": "MTLDLPRRFPWPTLLSVCIHGAVVAGLLYTSVHQVIELPAPAQPISVTMVAPADLEPPQAVQPPPEPVVEPEPEPEPEPIPEPPKEAPVVIEKPKPKPKPKPKPVKKVQEQPKRDVKPVESRPASPFENTAPARLTSSTATAATSKPVTSVASGPRALSRNQPQYPARAQALRIEGQVKVKFDVTPDGRVDNVQILSAKPANMFEREVKNAMRRWRYEPGKPGSGIVVNILFKINGTTEIQ",
+          "query_coverage": 1.0,
+          "start": 2564371,
+          "end": 2565093,
+          "strand": "-",
+          "passes_thresholds": true
+        },
+        "overlapping_cds": [
+          {
+            "start": 2564368,
+            "end": 2565093,
+            "attrs": {
+              "ID": "cds-WP_171284570.1",
+              "Parent": "gene-HLY12_RS12150",
+              "Dbxref": "GenBank:WP_171284570.1",
+              "Name": "WP_171284570.1",
+              "gbkey": "CDS",
+              "gene": "tonB",
+              "inference": "COORDINATES: similar to AA sequence:RefSeq:NP_415768.1",
+              "locus_tag": "HLY12_RS12150",
+              "product": "TonB system transport protein TonB",
+              "protein_id": "WP_171284570.1",
+              "transl_table": "11"
+            }
+          }
+        ],
+        "both_flanks": true,
+        "cluster_absence_is_not_gene_loss": true
+      },
+      "sources": [
+        {
+          "path": "outputs/ecoli100_candidate_audit_20261102/results.json",
+          "sha256": "ef7b4bdb76490bdb73ad09a8f4f9b24e9cee33312758b4050b82b4c4821264ba"
+        }
+      ]
+    },
+    {
+      "tool": "lookup_read_evidence",
+      "title": "Read 출처·품질·무결성",
+      "data": {
+        "run": "SRR11451201",
+        "whole_run_files_verified": true,
+        "assembly_run_version_use_verified": false,
+        "read_provenance": {
+          "sampled_primary_records": 4276,
+          "modal_same_strand_start_step_bp": 10,
+          "modal_start_step_fraction": 1.0,
+          "modal_absolute_template_length": 450,
+          "modal_template_length_fraction": 1.0,
+          "modal_quality_character_fraction": 0.997615141767166,
+          "zero_edit_distance_fraction": 1.0,
+          "provenance_review_required": true,
+          "independent_physical_read_validation_established": false,
+          "synthetic_data_confirmed": false,
+          "note": "Conjunction of regular tiling, fixed template length, near-constant quality and exact matches triggers review. It does not prove simulation. Registration and BioSample matching alone do not establish independent physical sequencing."
+        }
+      },
+      "sources": [
+        {
+          "path": "outputs/ecoli100_raw_validation_20261102/summary.json",
+          "sha256": "3842ba1bf45d908ce1dc0ef9d19a28788e1f92a2aa05f6649c0586804c395e27"
+        }
+      ]
+    },
+    {
+      "tool": "lookup_regional_qc",
+      "title": "후보와 인접 대조 구간",
+      "data": {
+        "candidate": {
+          "region": {
+            "seqid": "NZ_CP053259.1",
+            "start": 2564368,
+            "end": 2565093
+          },
+          "metrics": {
+            "raw_alignment_records": 570,
+            "usable_primary_records": 170,
+            "excluded": {},
+            "supplementary_records": 0,
+            "mean_depth": 25,
+            "median_depth": 25.0,
+            "covered_fraction": 1.0,
+            "mismatch_fraction": 0.0,
+            "aligned_callable_bases": 18150,
+            "mismatches": 0,
+            "insertion_bases": 0,
+            "deletion_bases": 0,
+            "spanning_plus100_records": 0,
+            "spanning_forward": 0,
+            "spanning_reverse": 0,
+            "boundary_clipped_fraction": 0.0,
+            "left_flank_mean_depth": 25,
+            "right_flank_mean_depth": 25,
+            "n_fraction": 0.0
+          },
+          "signals": [
+            "read_assembly_supported"
+          ],
+          "coherent_substitutions": [],
+          "coherent_substitution_count": 0,
+          "coherent_indels": [],
+          "variant_calls_made": false,
+          "causal_diagnosis": "unresolved"
+        },
+        "neighbor_regions": [
+          {
+            "name": "ybiV",
+            "seqid": "NZ_CP053259.1",
+            "start": 3074841,
+            "end": 3075656,
+            "role": "local_neighbor_control",
+            "signals": [
+              "read_assembly_supported"
+            ],
+            "metrics": {
+              "raw_alignment_records": 588,
+              "usable_primary_records": 188,
+              "excluded": {},
+              "supplementary_records": 0,
+              "mean_depth": 25,
+              "median_depth": 25.0,
+              "covered_fraction": 1.0,
+              "mismatch_fraction": 0.0,
+              "aligned_callable_bases": 20400,
+              "mismatches": 0,
+              "insertion_bases": 0,
+              "deletion_bases": 0,
+              "spanning_plus100_records": 0,
+              "spanning_forward": 0,
+              "spanning_reverse": 0,
+              "boundary_clipped_fraction": 0.0,
+              "left_flank_mean_depth": 25,
+              "right_flank_mean_depth": 25,
+              "n_fraction": 0.0
+            },
+            "coherent_substitution_count": 0,
+            "coherent_indel_count": 0,
+            "quality_information_unresolved": false
+          },
+          {
+            "name": "ybiT",
+            "seqid": "NZ_CP053259.1",
+            "start": 3077308,
+            "end": 3078900,
+            "role": "local_neighbor_control",
+            "signals": [
+              "read_assembly_supported"
+            ],
+            "metrics": {
+              "raw_alignment_records": 743,
+              "usable_primary_records": 343,
+              "excluded": {},
+              "supplementary_records": 0,
+              "mean_depth": 25,
+              "median_depth": 25,
+              "covered_fraction": 1.0,
+              "mismatch_fraction": 0.0,
+              "aligned_callable_bases": 39825,
+              "mismatches": 0,
+              "insertion_bases": 0,
+              "deletion_bases": 0,
+              "spanning_plus100_records": 0,
+              "spanning_forward": 0,
+              "spanning_reverse": 0,
+              "boundary_clipped_fraction": 0.0,
+              "left_flank_mean_depth": 25,
+              "right_flank_mean_depth": 25,
+              "n_fraction": 0.0
+            },
+            "coherent_substitution_count": 0,
+            "coherent_indel_count": 0,
+            "quality_information_unresolved": false
+          }
+        ],
+        "read_provenance": {
+          "sampled_primary_records": 4276,
+          "modal_same_strand_start_step_bp": 10,
+          "modal_start_step_fraction": 1.0,
+          "modal_absolute_template_length": 450,
+          "modal_template_length_fraction": 1.0,
+          "modal_quality_character_fraction": 0.997615141767166,
+          "zero_edit_distance_fraction": 1.0,
+          "provenance_review_required": true,
+          "independent_physical_read_validation_established": false,
+          "synthetic_data_confirmed": false,
+          "note": "Conjunction of regular tiling, fixed template length, near-constant quality and exact matches triggers review. It does not prove simulation. Registration and BioSample matching alone do not establish independent physical sequencing."
+        }
+      },
+      "sources": [
+        {
+          "path": "outputs/ecoli100_raw_validation_20261102/GCF_013112335.1_1.json",
+          "sha256": "5ac581090f6dd7aa51542ecdcad98edc937a45304afc52721bc10c503941c42d"
+        }
+      ]
+    }
+  ],
+  "next_check": "Verify exact run-to-assembly-version provenance and independently inspect the locus; population and read disagreements do not establish cause.",
+  "evidence_mode": "snapshot_of_completed_real_analyses",
+  "built_utc": "2026-11-03T05:17:34.239979+00:00",
+  "model_called": false
+}

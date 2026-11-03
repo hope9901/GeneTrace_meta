@@ -1,0 +1,138 @@
+{
+  "id": "contamination",
+  "title": "NCBI 오염 양성 데이터로 한계를 확인한다",
+  "assembly": "three external E. coli controls",
+  "gene": "contig-level screening",
+  "question": "What is supported by the FCS concordance test, and what contamination claims remain unsupported?",
+  "tools": [
+    {
+      "tool": "lookup_cohort_comparison",
+      "title": "100개 비교 패널과 고정 기준",
+      "data": {
+        "reference_assemblies": 100,
+        "thresholds": {
+          "min_contig_bp": 2000,
+          "min_alignment_bp": 1000,
+          "min_alignment_identity": 0.9,
+          "flag_aligned_fraction_below": 0.5
+        },
+        "thresholds_tuned_to_labels": false,
+        "short_contigs_excluded": true
+      },
+      "sources": [
+        {
+          "path": "outputs/contamination_validation_20261102/summary.json",
+          "sha256": "157cff13fb357f508d42cdb8cd3a6cfbc24b1dd3069e3168b5be5c176a10b7e6"
+        }
+      ]
+    },
+    {
+      "tool": "inspect_sequence",
+      "title": "독립적인 패널 대응 검사",
+      "data": {
+        "evaluations": [
+          {
+            "assembly": "GCA_002933585.1",
+            "ncbi_contaminated_warning": true,
+            "FCS_action_contigs": 4,
+            "FCS_action_contigs_flagged": 4,
+            "non_FCS_action_contigs": 13,
+            "non_FCS_action_contigs_flagged": 0,
+            "interpretation": "Contig-level concordance, not sensitivity/specificity: FCS labels are incomplete and overlap is not span-resolution validation; unmatched genuine accessory/mobile DNA can be flagged.",
+            "independent_contamination_diagnosis": false,
+            "FCS_action_contigs_eligible": 4,
+            "FCS_action_contigs_below_size_threshold": 0
+          },
+          {
+            "assembly": "GCA_027889185.1",
+            "ncbi_contaminated_warning": true,
+            "FCS_action_contigs": 2922,
+            "FCS_action_contigs_flagged": 1,
+            "non_FCS_action_contigs": 458,
+            "non_FCS_action_contigs_flagged": 31,
+            "interpretation": "Contig-level concordance, not sensitivity/specificity: FCS labels are incomplete and overlap is not span-resolution validation; unmatched genuine accessory/mobile DNA can be flagged.",
+            "independent_contamination_diagnosis": false,
+            "FCS_action_contigs_eligible": 1,
+            "FCS_action_contigs_below_size_threshold": 2921
+          },
+          {
+            "assembly": "GCA_009888865.1",
+            "ncbi_contaminated_warning": true,
+            "FCS_action_contigs": 169,
+            "FCS_action_contigs_flagged": 126,
+            "non_FCS_action_contigs": 85,
+            "non_FCS_action_contigs_flagged": 63,
+            "interpretation": "Contig-level concordance, not sensitivity/specificity: FCS labels are incomplete and overlap is not span-resolution validation; unmatched genuine accessory/mobile DNA can be flagged.",
+            "independent_contamination_diagnosis": false,
+            "FCS_action_contigs_eligible": 126,
+            "FCS_action_contigs_below_size_threshold": 43
+          }
+        ],
+        "method": "Population alignability flags finalized before reading external FCS spans; homologous accessory/mobile DNA and close contaminants remain unresolved."
+      },
+      "sources": [
+        {
+          "path": "outputs/contamination_validation_20261102/summary.json",
+          "sha256": "157cff13fb357f508d42cdb8cd3a6cfbc24b1dd3069e3168b5be5c176a10b7e6"
+        }
+      ]
+    },
+    {
+      "tool": "lookup_regional_qc",
+      "title": "외부 FCS 대조와 제한",
+      "data": {
+        "evaluations": [
+          {
+            "assembly": "GCA_002933585.1",
+            "ncbi_contaminated_warning": true,
+            "FCS_action_contigs": 4,
+            "FCS_action_contigs_flagged": 4,
+            "non_FCS_action_contigs": 13,
+            "non_FCS_action_contigs_flagged": 0,
+            "interpretation": "Contig-level concordance, not sensitivity/specificity: FCS labels are incomplete and overlap is not span-resolution validation; unmatched genuine accessory/mobile DNA can be flagged.",
+            "independent_contamination_diagnosis": false,
+            "FCS_action_contigs_eligible": 4,
+            "FCS_action_contigs_below_size_threshold": 0
+          },
+          {
+            "assembly": "GCA_027889185.1",
+            "ncbi_contaminated_warning": true,
+            "FCS_action_contigs": 2922,
+            "FCS_action_contigs_flagged": 1,
+            "non_FCS_action_contigs": 458,
+            "non_FCS_action_contigs_flagged": 31,
+            "interpretation": "Contig-level concordance, not sensitivity/specificity: FCS labels are incomplete and overlap is not span-resolution validation; unmatched genuine accessory/mobile DNA can be flagged.",
+            "independent_contamination_diagnosis": false,
+            "FCS_action_contigs_eligible": 1,
+            "FCS_action_contigs_below_size_threshold": 2921
+          },
+          {
+            "assembly": "GCA_009888865.1",
+            "ncbi_contaminated_warning": true,
+            "FCS_action_contigs": 169,
+            "FCS_action_contigs_flagged": 126,
+            "non_FCS_action_contigs": 85,
+            "non_FCS_action_contigs_flagged": 63,
+            "interpretation": "Contig-level concordance, not sensitivity/specificity: FCS labels are incomplete and overlap is not span-resolution validation; unmatched genuine accessory/mobile DNA can be flagged.",
+            "independent_contamination_diagnosis": false,
+            "FCS_action_contigs_eligible": 126,
+            "FCS_action_contigs_below_size_threshold": 43
+          }
+        ],
+        "scope": "contig-level concordance only, not span detection or diagnostic accuracy",
+        "additional_flags_are_not_confirmed_contamination": true,
+        "FCS_no_action_is_not_confirmed_negative": true
+      },
+      "sources": [
+        {
+          "path": "outputs/contamination_validation_20261102/summary.json",
+          "sha256": "157cff13fb357f508d42cdb8cd3a6cfbc24b1dd3069e3168b5be5c176a10b7e6"
+        }
+      ]
+    }
+  ],
+  "next_check": "Evaluate short contigs, independent negatives and accessory/mobile elements without tuning to these validation labels.",
+  "evidence_mode": "snapshot_of_completed_real_analyses",
+  "built_utc": "2026-11-03T05:17:34.241159+00:00",
+  "model_called": false
+}

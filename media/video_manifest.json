@@ -1,0 +1,14 @@
+{
+  "duration_seconds": 173.9728344671202,
+  "resolution": "1920x1080",
+  "narration": "macOS Samantha synthesized English voice",
+  "presentation": "Edited actual execution capture sequence and explanatory cards; elapsed time condensed, not a continuous recording",
+  "execution_report": "f64d1b2f2a5c4761b1d023d3bd125796",
+  "new_alignment_performed": true,
+  "fresh_tool_execution_loop": "bounded nimT case verified; other cases retain saved review",
+  "source_evidence": [
+    "demo/evidence/nimt.json",
+    "demo/evidence/provenance.json",
+    "demo/evidence/contamination.json"
+  ]
+}

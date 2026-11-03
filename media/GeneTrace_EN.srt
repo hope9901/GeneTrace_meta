@@ -1,0 +1,139 @@
+1
+00:00:00,000 --> 00:00:01,667
+A gene appears to be missing.
+
+2
+00:00:01,667 --> 00:00:04,392
+Is that biology, or a data problem?
+
+3
+00:00:04,392 --> 00:00:10,812
+GeneTrace investigates genome reliability before researchers build experiments on an uncertain result.
+
+4
+00:00:10,812 --> 00:00:14,273
+Sequencing produces DNA fragments called reads.
+
+5
+00:00:14,273 --> 00:00:19,062
+Assembly reconstructs a genome, and annotation marks gene locations.
+
+6
+00:00:19,062 --> 00:00:22,300
+Think of reconstructing a book and marking its chapters.
+
+7
+00:00:22,300 --> 00:00:25,558
+A missing chapter label does not prove the text is gone.
+
+8
+00:00:25,558 --> 00:00:32,217
+Experts need data collection, computational analysis, and biological interpretation together.
+
+9
+00:00:32,217 --> 00:00:34,731
+Our goal is to automate that investigation.
+
+10
+00:00:34,731 --> 00:00:40,194
+A rare difference can be natural, so the agent must also know when the cause is unresolved.
+
+11
+00:00:40,194 --> 00:00:48,669
+We use one hundred quality selected, complete Escherichia coli genomes from NCBI RefSeq, with gene annotations.
+
+12
+00:00:48,669 --> 00:00:53,145
+MG1655 anchors the comparison panel.
+
+13
+00:00:53,145 --> 00:00:59,518
+For this demonstration, seven hundred fifty six read pairs were selected from a public Illumina run.
+
+14
+00:00:59,518 --> 00:01:04,948
+This reference selected subset is not whole run quality control or independent validation.
+
+15
+00:01:04,948 --> 00:01:10,765
+We select nimT, a gene with frameshift related annotation, and enable fresh analysis.
+
+16
+00:01:10,765 --> 00:01:15,109
+Meta requests structural annotation inspection, then read alignment.
+
+17
+00:01:15,109 --> 00:01:23,255
+The application actually executes minimap2 and regional checks on fixed public inputs, and returns newly computed evidence.
+
+18
+00:01:23,255 --> 00:01:25,865
+The candidate disagrees with selected reads.
+
+19
+00:01:25,865 --> 00:01:29,100
+That observation exposes a neighboring control tool.
+
+20
+00:01:29,100 --> 00:01:32,980
+Meta requests it to investigate whether the discrepancy is local.
+
+21
+00:01:32,980 --> 00:01:38,363
+The application calculates nimR and yeaO from the new alignment, then updates the judgment.
+
+22
+00:01:38,363 --> 00:01:42,341
+These are executed checks, not just saved result lookups.
+
+23
+00:01:42,341 --> 00:01:44,451
+The neighboring genes also disagree.
+
+24
+00:01:44,451 --> 00:01:49,032
+A strictly local assembly error is therefore insufficient as an explanation.
+
+25
+00:01:49,032 --> 00:01:58,467
+The structured result lists possible biological, assembly, read, or dataset linkage causes, with limitations and next verification.
+
+26
+00:01:58,467 --> 00:02:03,977
+Exact run to assembly version linkage remains unverified; the cause is unresolved.
+
+27
+00:02:03,977 --> 00:02:07,240
+We ran the same case with a fixed policy and with Meta.
+
+28
+00:02:07,240 --> 00:02:11,026
+Both executed four fresh checks and produced equal measurements.
+
+29
+00:02:11,026 --> 00:02:15,219
+Meta added evidence dependent selection reasons and cited synthesis.
+
+30
+00:02:15,219 --> 00:02:22,860
+Both share minimum check safeguards, so this single case does not establish improved accuracy or unique AI discovery.
+
+31
+00:02:22,860 --> 00:02:26,130
+Population context is still a saved analysis.
+
+32
+00:02:26,130 --> 00:02:29,379
+Fresh execution is enabled for one bounded case.
+
+33
+00:02:29,379 --> 00:02:35,273
+Commands, versions, hashes, and evidence exports make the investigation reviewable.
+
+34
+00:02:35,273 --> 00:02:39,599
+This is a working prototype, not a validated diagnostic system.
+
+35
+00:02:39,599 --> 00:02:53,973
+GeneTrace connects biological context, real analysis execution, and Meta guided interpretation, helping researchers investigate uncertain genome regions before deciding what to trust and what to verify next.

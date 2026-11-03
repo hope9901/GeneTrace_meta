@@ -1,0 +1,73 @@
+{
+  "assembly": "GCF_001558995.2",
+  "strain": "JEONG-1266",
+  "run": "SRR2762258",
+  "sample": "SAMN04191546",
+  "read_platform": "Illumina MiSeq",
+  "assembly_platform": "PacBio",
+  "regions": [
+    {
+      "name": "nimT",
+      "seqid": "NZ_CP014314.1",
+      "start": 1583078,
+      "end": 1584260,
+      "role": "candidate_annotation_bounded_region"
+    },
+    {
+      "name": "nimR",
+      "seqid": "NZ_CP014314.1",
+      "start": 1584357,
+      "end": 1585178,
+      "role": "local_neighbor_control"
+    },
+    {
+      "name": "yeaO",
+      "seqid": "NZ_CP014314.1",
+      "start": 1582676,
+      "end": 1583023,
+      "role": "local_neighbor_control"
+    }
+  ],
+  "selection": {
+    "method": "Original paired FASTQ records selected by names overlapping a precomputed BAM window; sequence and quality retained unchanged",
+    "window": "NZ_CP014314.1:1577676-1590178",
+    "not_an_independent_sample": true,
+    "partial_input": true,
+    "limitations": "Reference-dependent selection can miss unmapped/divergent reads; not whole-run QC, unbiased depth, absence evidence, or independent validation."
+  },
+  "source_fastq": [
+    {
+      "run": "SRR2762258",
+      "mate": 1,
+      "whole_file_md5": "ff3addc261cea07dcbe045fefeeb822a",
+      "whole_file_bytes": 49631598,
+      "selected_records": 756
+    },
+    {
+      "run": "SRR2762258",
+      "mate": 2,
+      "whole_file_md5": "c4ae0b167c361ad5f522a33db0a104ca",
+      "whole_file_bytes": 55564037,
+      "selected_records": 756
+    }
+  ],
+  "exact_assembly_run_use_verified": false,
+  "files": {
+    "reads_1.fastq.gz": {
+      "sha256": "efa12c6b5ea05642f7d094a8e34e33ade1e3406b25f6c987b6612de473dd8f8a",
+      "bytes": 102836
+    },
+    "reads_2.fastq.gz": {
+      "sha256": "acb437061f40b424f4f6ec0b1f62d9b4663fab630f2f27405932af59b37ca6cb",
+      "bytes": 119323
+    },
+    "genome.fna.gz": {
+      "sha256": "2429a88893126c6aa5a9dfd55ad33cc30a57250fc10a59c8704e4111224fbf1e",
+      "bytes": 1657152
+    },
+    "annotation.gff.gz": {
+      "sha256": "8abe0c20b3c260a00bfa973be35a25800a4d71c7dd5c684eebccf075f066f9fd",
+      "bytes": 525444
+    }
+  }
+}

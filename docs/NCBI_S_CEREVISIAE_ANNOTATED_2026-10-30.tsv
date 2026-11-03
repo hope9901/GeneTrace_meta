@@ -1,0 +1,436 @@
+assembly_accession	organism_name	infraspecific_name	assembly_level	genome_rep	protein_coding_gene_count	annotation_provider	gbrs_paired_asm	ftp_path
+GCA_000091065.2	Saccharomyces cerevisiae	strain=S288C	Chromosome	Partial	135	Tsukuba Life Science Center	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/091/065/GCA_000091065.2_ASM9106v2/
+GCA_000146045.2	Saccharomyces cerevisiae S288C	strain=S288C	Complete Genome	Full	6002	SGD	GCF_000146045.2	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/146/045/GCA_000146045.2_R64/
+GCA_000149365.1	Saccharomyces cerevisiae RM11-1a	strain=RM11-1a	Scaffold	Full	5377	Broad Institute	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/149/365/GCA_000149365.1_ASM14936v1/
+GCA_000181435.1	Saccharomyces cerevisiae YJM789	strain=YJM789	Scaffold	Full	5902	Stanford University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/181/435/GCA_000181435.1_ASM18143v1/
+GCA_000182175.1	Saccharomyces cerevisiae AWRI1631	strain=AWRI1631	Contig	Full	5037	The Australian Wine Research Institute (AWRI), Australia	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/182/175/GCA_000182175.1_ASM18217v1/
+GCA_000182315.2	Saccharomyces cerevisiae JAY291	strain=JAY291	Scaffold	Full	5197	Duke University Medical Center	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/182/315/GCA_000182315.2_ASM18231v2/
+GCA_000190195.1	Saccharomyces cerevisiae AWRI796	strain=AWRI796	Chromosome	Full	3786	The Australian Wine Research Institute	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/190/195/GCA_000190195.1_ScAWRI796_v01/
+GCA_000190215.1	Saccharomyces cerevisiae Vin13	strain=Vin13	Chromosome	Full	3930	The Australian Wine Research Institute	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/190/215/GCA_000190215.1_ScVIN13_v01/
+GCA_000190235.1	Saccharomyces cerevisiae VL3	strain=VL3	Chromosome	Full	4025	The Australian Wine Research Institute	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/190/235/GCA_000190235.1_ScVL3_v01/
+GCA_000190255.1	Saccharomyces cerevisiae FostersB	strain=FostersB	Chromosome	Full	3689	The Australian Wine Research Institute	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/190/255/GCA_000190255.1_ScFostersB_v01/
+GCA_000218975.1	Saccharomyces cerevisiae EC1118	strain=Lalvin EC1118	Scaffold	Full	6017	Genoscope	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/218/975/GCA_000218975.1_ASM21897v1/
+GCA_000260735.2	Saccharomyces cerevisiae Kyokai no. 7	strain=Kyokai no. 7	Chromosome	Full	5795	National Research Institute of Brewing	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/260/735/GCA_000260735.2_K7_1.0/
+GCA_000269885.1	Saccharomyces cerevisiae CEN.PK113-7D	strain=CEN.PK113-7D	Chromosome	Full	5451	Chalmers University of Technology	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/269/885/GCA_000269885.1_ASM26988v1/
+GCA_000325965.1	Saccharomyces cerevisiae Lalvin QA23	strain=Lalvin QA23	Scaffold	Full	4022	The Australian Wine Research Institute	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/325/965/GCA_000325965.1_ScQA23_v01/
+GCA_000326005.1	Saccharomyces cerevisiae FostersO	strain=FostersO	Contig	Full	3575	The Australian Wine Research Institute	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/326/005/GCA_000326005.1_ScFostersO_v01/
+GCA_000568005.1	Saccharomyces cerevisiae R008	strain=R008	Chromosome	Full	5222	University of Padova	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/568/005/GCA_000568005.1_R008/
+GCA_000568055.1	Saccharomyces cerevisiae P301	strain=P301	Chromosome	Full	4767	University of Padova	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/568/055/GCA_000568055.1_p301/
+GCA_000568295.1	Saccharomyces cerevisiae P283	strain=P283	Chromosome	Full	4400	University of Padova	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/568/295/GCA_000568295.1_P283/
+GCA_000568365.1	Saccharomyces cerevisiae R103	strain=R103	Chromosome	Full	5045	University of Padova	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/568/365/GCA_000568365.1_R103/
+GCA_000662435.2	Saccharomyces cerevisiae YJM993	strain=YJM993	Chromosome	Full	5467	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/662/435/GCA_000662435.2_Sc_YJM993_v1/
+GCA_000975585.2	Saccharomyces cerevisiae YJM195	strain=YJM195	Chromosome	Full	5369	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/975/585/GCA_000975585.2_Sc_YJM195_v1/
+GCA_000975615.2	Saccharomyces cerevisiae YJM244	strain=YJM244	Chromosome	Full	5326	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/975/615/GCA_000975615.2_Sc_YJM244_v1/
+GCA_000975645.3	Saccharomyces cerevisiae YJM1078	strain=YJM1078	Chromosome	Full	5424	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/975/645/GCA_000975645.3_Sc_YJM1078_v1/
+GCA_000975675.2	Saccharomyces cerevisiae YJM1083	strain=YJM1083	Chromosome	Full	5399	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/975/675/GCA_000975675.2_Sc_YJM1083_v1/
+GCA_000975705.2	Saccharomyces cerevisiae YJM1129	strain=YJM1129	Chromosome	Full	5470	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/975/705/GCA_000975705.2_Sc_YJM1129_v1/
+GCA_000975735.4	Saccharomyces cerevisiae YJM189	strain=YJM189	Chromosome	Full	5434	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/975/735/GCA_000975735.4_Sc_YJM189_v1/
+GCA_000975765.2	Saccharomyces cerevisiae YJM193	strain=YJM193	Chromosome	Full	5406	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/975/765/GCA_000975765.2_Sc_YJM193_v1/
+GCA_000975795.2	Saccharomyces cerevisiae YJM248	strain=YJM248	Chromosome	Full	5388	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/975/795/GCA_000975795.2_Sc_YJM248_v1/
+GCA_000975825.2	Saccharomyces cerevisiae YJM270	strain=YJM270	Chromosome	Full	5425	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/975/825/GCA_000975825.2_Sc_YJM270_v1/
+GCA_000975855.3	Saccharomyces cerevisiae YJM271	strain=YJM271	Chromosome	Full	5364	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/975/855/GCA_000975855.3_Sc_YJM271_v1/
+GCA_000975885.2	Saccharomyces cerevisiae YJM320	strain=YJM320	Chromosome	Full	5384	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/975/885/GCA_000975885.2_Sc_YJM320_v1/
+GCA_000975915.3	Saccharomyces cerevisiae YJM326	strain=YJM326	Chromosome	Full	5410	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/975/915/GCA_000975915.3_Sc_YJM326_v1/
+GCA_000975945.2	Saccharomyces cerevisiae YJM428	strain=YJM428	Chromosome	Full	5400	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/975/945/GCA_000975945.2_Sc_YJM428_v1/
+GCA_000975975.3	Saccharomyces cerevisiae YJM450	strain=YJM450	Chromosome	Full	5428	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/975/975/GCA_000975975.3_Sc_YJM450_v1/
+GCA_000976005.2	Saccharomyces cerevisiae YJM451	strain=YJM451	Chromosome	Full	5401	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/005/GCA_000976005.2_Sc_YJM451_v1/
+GCA_000976035.2	Saccharomyces cerevisiae YJM453	strain=YJM453	Chromosome	Full	5387	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/035/GCA_000976035.2_Sc_YJM453_v1/
+GCA_000976065.2	Saccharomyces cerevisiae YJM456	strain=YJM456	Chromosome	Full	5470	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/065/GCA_000976065.2_Sc_YJM456_v1/
+GCA_000976095.2	Saccharomyces cerevisiae YJM470	strain=YJM470	Chromosome	Full	5387	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/095/GCA_000976095.2_Sc_YJM470_v1/
+GCA_000976125.2	Saccharomyces cerevisiae YJM541	strain=YJM541	Chromosome	Full	5395	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/125/GCA_000976125.2_Sc_YJM541_v1/
+GCA_000976155.4	Saccharomyces cerevisiae YJM554	strain=YJM554	Chromosome	Full	5356	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/155/GCA_000976155.4_Sc_YJM554_v1/
+GCA_000976185.3	Saccharomyces cerevisiae YJM555	strain=YJM555	Chromosome	Full	5451	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/185/GCA_000976185.3_Sc_YJM555_v1/
+GCA_000976215.2	Saccharomyces cerevisiae YJM627	strain=YJM627	Chromosome	Full	5396	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/215/GCA_000976215.2_Sc_YJM627_v1/
+GCA_000976245.2	Saccharomyces cerevisiae YJM681	strain=YJM681	Chromosome	Full	5390	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/245/GCA_000976245.2_Sc_YJM681_v1/
+GCA_000976275.4	Saccharomyces cerevisiae YJM682	strain=YJM682	Chromosome	Full	5439	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/275/GCA_000976275.4_Sc_YJM682_v1/
+GCA_000976305.2	Saccharomyces cerevisiae YJM683	strain=YJM683	Chromosome	Full	5458	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/305/GCA_000976305.2_Sc_YJM683_v1/
+GCA_000976335.2	Saccharomyces cerevisiae YJM689	strain=YJM689	Chromosome	Full	5387	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/335/GCA_000976335.2_Sc_YJM689_v1/
+GCA_000976365.2	Saccharomyces cerevisiae YJM693	strain=YJM693	Chromosome	Full	5368	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/365/GCA_000976365.2_Sc_YJM693_v1/
+GCA_000976395.2	Saccharomyces cerevisiae YJM969	strain=YJM969	Chromosome	Full	5442	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/395/GCA_000976395.2_Sc_YJM969_v1/
+GCA_000976425.2	Saccharomyces cerevisiae YJM972	strain=YJM972	Chromosome	Full	5433	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/425/GCA_000976425.2_Sc_YJM972_v1/
+GCA_000976455.3	Saccharomyces cerevisiae YJM975	strain=YJM975	Chromosome	Full	5427	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/455/GCA_000976455.3_Sc_YJM975_v1/
+GCA_000976485.2	Saccharomyces cerevisiae YJM978	strain=YJM978	Chromosome	Full	5442	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/485/GCA_000976485.2_Sc_YJM978_v1/
+GCA_000976515.2	Saccharomyces cerevisiae YJM981	strain=YJM981	Chromosome	Full	5470	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/515/GCA_000976515.2_Sc_YJM981_v1/
+GCA_000976545.2	Saccharomyces cerevisiae YJM984	strain=YJM984	Chromosome	Full	5419	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/545/GCA_000976545.2_Sc_YJM984_v1/
+GCA_000976575.4	Saccharomyces cerevisiae YJM987	strain=YJM987	Chromosome	Full	5476	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/575/GCA_000976575.4_Sc_YJM987_v1/
+GCA_000976605.3	Saccharomyces cerevisiae YJM990	strain=YJM990	Chromosome	Full	5379	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/605/GCA_000976605.3_Sc_YJM990_v1/
+GCA_000976665.2	Saccharomyces cerevisiae YJM996	strain=YJM996	Chromosome	Full	5473	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/665/GCA_000976665.2_Sc_YJM996_v1/
+GCA_000976695.3	Saccharomyces cerevisiae YJM1133	strain=YJM1133	Chromosome	Full	5329	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/695/GCA_000976695.3_Sc_YJM1133_v1/
+GCA_000976725.3	Saccharomyces cerevisiae YJM1190	strain=YJM1190	Chromosome	Full	5436	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/725/GCA_000976725.3_Sc_YJM1190_v1/
+GCA_000976755.2	Saccharomyces cerevisiae YJM1199	strain=YJM1199	Chromosome	Full	5466	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/755/GCA_000976755.2_Sc_YJM1199_v1/
+GCA_000976785.2	Saccharomyces cerevisiae YJM1202	strain=YJM1202	Chromosome	Full	5400	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/785/GCA_000976785.2_Sc_YJM1202_v1/
+GCA_000976815.3	Saccharomyces cerevisiae YJM1208	strain=YJM1208	Chromosome	Full	5391	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/815/GCA_000976815.3_Sc_YJM1208_v1/
+GCA_000976845.3	Saccharomyces cerevisiae YJM1242	strain=YJM1242	Chromosome	Full	5398	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/845/GCA_000976845.3_Sc_YJM1242_v1/
+GCA_000976875.3	Saccharomyces cerevisiae YJM1244	strain=YJM1244	Chromosome	Full	5361	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/875/GCA_000976875.3_Sc_YJM1244_v1/
+GCA_000976905.2	Saccharomyces cerevisiae YJM1248	strain=YJM1248	Chromosome	Full	5318	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/905/GCA_000976905.2_Sc_YJM1248_v1/
+GCA_000976935.2	Saccharomyces cerevisiae YJM1250	strain=YJM1250	Chromosome	Full	5325	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/935/GCA_000976935.2_Sc_YJM1250_v1/
+GCA_000976965.3	Saccharomyces cerevisiae YJM1252	strain=YJM1252	Chromosome	Full	5389	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/965/GCA_000976965.3_Sc_YJM1252_v1/
+GCA_000976995.2	Saccharomyces cerevisiae YJM1273	strain=YJM1273	Chromosome	Full	5465	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/976/995/GCA_000976995.2_Sc_YJM1273_v1/
+GCA_000977025.2	Saccharomyces cerevisiae YJM1304	strain=YJM1304	Chromosome	Full	5378	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/025/GCA_000977025.2_Sc_YJM1304_v1/
+GCA_000977055.4	Saccharomyces cerevisiae YJM1307	strain=YJM1307	Chromosome	Full	5407	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/055/GCA_000977055.4_Sc_YJM1307_v1/
+GCA_000977085.2	Saccharomyces cerevisiae YJM1311	strain=YJM1311	Chromosome	Full	5432	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/085/GCA_000977085.2_Sc_YJM1311_v1/
+GCA_000977115.3	Saccharomyces cerevisiae YJM1326	strain=YJM1326	Chromosome	Full	5423	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/115/GCA_000977115.3_Sc_YJM1326_v1/
+GCA_000977145.2	Saccharomyces cerevisiae YJM1332	strain=YJM1332	Chromosome	Full	5462	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/145/GCA_000977145.2_Sc_YJM1332_v1/
+GCA_000977175.3	Saccharomyces cerevisiae YJM1336	strain=YJM1336	Chromosome	Full	5417	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/175/GCA_000977175.3_Sc_YJM1336_v1/
+GCA_000977205.2	Saccharomyces cerevisiae YJM1338	strain=YJM1338	Chromosome	Full	5415	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/205/GCA_000977205.2_Sc_YJM1338_v1/
+GCA_000977235.2	Saccharomyces cerevisiae YJM1341	strain=YJM1341	Chromosome	Full	5442	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/235/GCA_000977235.2_Sc_YJM1341_v1/
+GCA_000977265.3	Saccharomyces cerevisiae YJM1342	strain=YJM1342	Chromosome	Full	5406	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/265/GCA_000977265.3_Sc_YJM1342_v1/
+GCA_000977295.3	Saccharomyces cerevisiae YJM1355	strain=YJM1355	Chromosome	Full	5367	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/295/GCA_000977295.3_Sc_YJM1355_v1/
+GCA_000977325.2	Saccharomyces cerevisiae YJM1356	strain=YJM1356	Chromosome	Full	5459	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/325/GCA_000977325.2_Sc_YJM1356_v1/
+GCA_000977355.3	Saccharomyces cerevisiae YJM1381	strain=YJM1381	Chromosome	Full	5463	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/355/GCA_000977355.3_Sc_YJM1381_v1/
+GCA_000977385.2	Saccharomyces cerevisiae YJM1383	strain=YJM1383	Chromosome	Full	5424	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/385/GCA_000977385.2_Sc_YJM1383_v1/
+GCA_000977415.2	Saccharomyces cerevisiae YJM1385	strain=YJM1385	Chromosome	Full	5435	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/415/GCA_000977415.2_Sc_YJM1385_v1/
+GCA_000977445.2	Saccharomyces cerevisiae YJM1386	strain=YJM1386	Chromosome	Full	5373	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/445/GCA_000977445.2_Sc_YJM1386_v1/
+GCA_000977475.3	Saccharomyces cerevisiae YJM1387	strain=YJM1387	Chromosome	Full	5448	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/475/GCA_000977475.3_Sc_YJM1387_v1/
+GCA_000977505.2	Saccharomyces cerevisiae YJM1388	strain=YJM1388	Chromosome	Full	5396	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/505/GCA_000977505.2_Sc_YJM1388_v1/
+GCA_000977535.2	Saccharomyces cerevisiae YJM1389	strain=YJM1389	Chromosome	Full	5381	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/535/GCA_000977535.2_Sc_YJM1389_v1/
+GCA_000977565.2	Saccharomyces cerevisiae YJM1399	strain=YJM1399	Chromosome	Full	5224	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/565/GCA_000977565.2_Sc_YJM1399_v1/
+GCA_000977595.3	Saccharomyces cerevisiae YJM1400	strain=YJM1400	Chromosome	Full	5411	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/595/GCA_000977595.3_Sc_YJM1400_v1/
+GCA_000977625.3	Saccharomyces cerevisiae YJM1401	strain=YJM1401	Chromosome	Full	5360	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/625/GCA_000977625.3_Sc_YJM1401_v1/
+GCA_000977655.2	Saccharomyces cerevisiae YJM1402	strain=YJM1402	Chromosome	Full	5447	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/655/GCA_000977655.2_Sc_YJM1402_v1/
+GCA_000977685.2	Saccharomyces cerevisiae YJM1415	strain=YJM1415	Chromosome	Full	5468	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/685/GCA_000977685.2_Sc_YJM1415_v1/
+GCA_000977715.4	Saccharomyces cerevisiae YJM1417	strain=YJM1417	Chromosome	Full	5436	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/715/GCA_000977715.4_Sc_YJM1417_v1/
+GCA_000977745.2	Saccharomyces cerevisiae YJM1418	strain=YJM1418	Chromosome	Full	5421	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/745/GCA_000977745.2_Sc_YJM1418_v1/
+GCA_000977775.3	Saccharomyces cerevisiae YJM1419	strain=YJM1419	Chromosome	Full	5405	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/775/GCA_000977775.3_Sc_YJM1419_v1/
+GCA_000977805.2	Saccharomyces cerevisiae YJM1433	strain=YJM1433	Chromosome	Full	5374	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/805/GCA_000977805.2_Sc_YJM1433_v1/
+GCA_000977835.2	Saccharomyces cerevisiae YJM1434	strain=YJM1434	Chromosome	Full	5462	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/835/GCA_000977835.2_Sc_YJM1434_v1/
+GCA_000977865.2	Saccharomyces cerevisiae YJM1439	strain=YJM1439	Chromosome	Full	5371	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/865/GCA_000977865.2_Sc_YJM1439_v1/
+GCA_000977895.3	Saccharomyces cerevisiae YJM1443	strain=YJM1443	Chromosome	Full	5274	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/895/GCA_000977895.3_Sc_YJM1443_v1/
+GCA_000977925.3	Saccharomyces cerevisiae YJM1444	strain=YJM1444	Chromosome	Full	5361	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/925/GCA_000977925.3_Sc_YJM1444_v1/
+GCA_000977955.2	Saccharomyces cerevisiae YJM1447	strain=YJM1447	Chromosome	Full	5203	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/955/GCA_000977955.2_Sc_YJM1447_v1/
+GCA_000977985.2	Saccharomyces cerevisiae YJM1450	strain=YJM1450	Chromosome	Full	5372	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/977/985/GCA_000977985.2_Sc_YJM1450_v1/
+GCA_000978015.2	Saccharomyces cerevisiae YJM1460	strain=YJM1460	Chromosome	Full	5376	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/978/015/GCA_000978015.2_Sc_YJM1460_v1/
+GCA_000978045.2	Saccharomyces cerevisiae YJM1463	strain=YJM1463	Chromosome	Full	5366	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/978/045/GCA_000978045.2_Sc_YJM1463_v1/
+GCA_000978075.3	Saccharomyces cerevisiae YJM1477	strain=YJM1477	Chromosome	Full	5426	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/978/075/GCA_000978075.3_Sc_YJM1477_v1/
+GCA_000978105.2	Saccharomyces cerevisiae YJM1478	strain=YJM1478	Chromosome	Full	5411	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/978/105/GCA_000978105.2_Sc_YJM1478_v1/
+GCA_000978135.2	Saccharomyces cerevisiae YJM1479	strain=YJM1479	Chromosome	Full	5408	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/978/135/GCA_000978135.2_Sc_YJM1479_v1/
+GCA_000978165.2	Saccharomyces cerevisiae YJM1526	strain=YJM1526	Chromosome	Full	5359	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/978/165/GCA_000978165.2_Sc_YJM1526_v1/
+GCA_000978195.3	Saccharomyces cerevisiae YJM1527	strain=YJM1527	Chromosome	Full	5395	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/978/195/GCA_000978195.3_Sc_YJM1527_v1/
+GCA_000978225.2	Saccharomyces cerevisiae YJM1549	strain=YJM1549	Chromosome	Full	5449	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/978/225/GCA_000978225.2_Sc_YJM1549_v1/
+GCA_000978255.2	Saccharomyces cerevisiae YJM1573	strain=YJM1573	Chromosome	Full	5446	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/978/255/GCA_000978255.2_Sc_YJM1573_v1/
+GCA_000978285.2	Saccharomyces cerevisiae YJM1574	strain=YJM1574	Chromosome	Full	5353	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/978/285/GCA_000978285.2_Sc_YJM1574_v1/
+GCA_000978315.2	Saccharomyces cerevisiae YJM1592	strain=YJM1592	Chromosome	Full	5389	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/978/315/GCA_000978315.2_Sc_YJM1592_v1/
+GCA_000978345.2	Saccharomyces cerevisiae YJM1615	strain=YJM1615	Chromosome	Full	5408	Duke University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/978/345/GCA_000978345.2_Sc_YJM1615_v1/
+GCA_001298375.2	Saccharomyces cerevisiae	strain=biocodex	Chromosome	Full	5482	Institute of Microbial Technology	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/298/375/GCA_001298375.2_ASM129837v2/
+GCA_001413975.1	Saccharomyces cerevisiae	strain=unique28	Chromosome	Full	5493	Institute of Microbial Technology	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/413/975/GCA_001413975.1_ASM141397v1/
+GCA_001634645.1	Saccharomyces cerevisiae	strain=GLBRCY22-3	Chromosome	Full	6319	University of Wisconsin - Madison	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/634/645/GCA_001634645.1_GLBRCY22-3/
+GCA_001983315.1	Saccharomyces cerevisiae	strain=131	Contig	Full	5445	WUR	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/983/315/GCA_001983315.1_ASM198331v1/
+GCA_002335645.1	Saccharomyces cerevisiae	strain=Kagoshima no. 2	Scaffold	Full	5645	Education and Research Center for Fermentation Studies, Faculty of Agriculture, Kagoshima University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/335/645/GCA_002335645.1_ScerevisiaeKagoshima_assembly01/
+GCA_002571405.2	Saccharomyces cerevisiae	strain=CEN.PK113-7D; CBS 8340	Chromosome	Full	5886	Raul A. Ortiz-Merino	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/571/405/GCA_002571405.2_ASM257140v2/
+GCA_002804325.1	Saccharomyces cerevisiae	strain=I-328	Contig	Full	5327	Institute of Bioengineering, Research Center of Biotechnology of RAS	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/804/325/GCA_002804325.1_ASM280432v1/
+GCA_003046695.1	Saccharomyces cerevisiae	strain=I-30	Contig	Full	5324	Institute of Bioengineering, Research Center of Biotechnology of RAS	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/046/695/GCA_003046695.1_ASM304669v1/
+GCA_003046715.1	Saccharomyces cerevisiae	strain=I-566	Contig	Full	5290	Institute of Bioengineering, Research Center of Biotechnology of RAS	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/046/715/GCA_003046715.1_ASM304671v1/
+GCA_003046745.1	Saccharomyces cerevisiae	strain=I-329	Contig	Full	5323	Institute of Bioengineering, Research Center of Biotechnology of RAS	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/046/745/GCA_003046745.1_ASM304674v1/
+GCA_009014655.1	Saccharomyces cerevisiae	strain=Pf-1	Scaffold	Full	5430	Chubu university	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/014/655/GCA_009014655.1_Scer_Pf_1_01/
+GCA_010356925.1	Saccharomyces cerevisiae	strain=INSC1005	Chromosome	Full	5843	Inscripta	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/356/925/GCA_010356925.1_ASM1035692v1/
+GCA_010356935.1	Saccharomyces cerevisiae	strain=INSC1006	Chromosome	Full	5807	Inscripta	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/356/935/GCA_010356935.1_ASM1035693v1/
+GCA_012275245.1	Saccharomyces cerevisiae	strain=FDAARGOS_613	Contig	Full	7200	US Food and Drug Administration	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/012/275/245/GCA_012275245.1_ASM1227524v1/
+GCA_014132375.1	Saccharomyces cerevisiae	strain=NYR20	Scaffold	Full	5260	Fukuyama University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/132/375/GCA_014132375.1_Scer_NYR20_01/
+GCA_014132395.1	Saccharomyces cerevisiae	strain=P-684	Scaffold	Full	4908	Fukuyama University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/132/395/GCA_014132395.1_Scer_P-684_01/
+GCA_014905575.1	Saccharomyces cerevisiae	strain=Awamori-101	Scaffold	Full	5436	Biojet Co., Lrd.	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/905/575/GCA_014905575.1_SCawmr101_1.0/
+GCA_016858165.1	Saccharomyces cerevisiae	strain=S288C	Chromosome	Full	5850	Inscripta	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/858/165/GCA_016858165.1_ASM1685816v1/
+GCA_016858175.1	Saccharomyces cerevisiae	strain=CEN.PK	Chromosome	Full	5790	Inscripta	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/858/175/GCA_016858175.1_ASM1685817v1/
+GCA_026585705.1	Saccharomyces cerevisiae	strain=SGU90	Contig	Full	5901	University of Warwick	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/585/705/GCA_026585705.1_ASM2658570v1/
+GCA_026585715.1	Saccharomyces cerevisiae	strain=SG60	Contig	Full	5969	University of Warwick	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/585/715/GCA_026585715.1_ASM2658571v1/
+GCA_026954535.1	Saccharomyces cerevisiae	strain=EM93	Contig	Full	5769	University of Warwick	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/954/535/GCA_026954535.1_ASM2695453v1/
+GCA_026954905.1	Saccharomyces cerevisiae	strain=1014	Contig	Full	5294	University of Warwick	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/954/905/GCA_026954905.1_ASM2695490v1/
+GCA_029989085.1	Saccharomyces cerevisiae	na	Contig	Full	5741	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/989/085/GCA_029989085.1_AMP_1a.nuclear_genome/
+GCA_029989255.1	Saccharomyces cerevisiae	na	Contig	Full	5679	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/989/255/GCA_029989255.1_BCN.nuclear_genome/
+GCA_029989385.1	Saccharomyces cerevisiae	na	Scaffold	Full	5722	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/989/385/GCA_029989385.1_CEL_1a.nuclear_genome/
+GCA_029989845.1	Saccharomyces cerevisiae	na	Contig	Full	5687	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/989/845/GCA_029989845.1_CCC_1a.nuclear_genome/
+GCA_029990125.1	Saccharomyces cerevisiae	na	Contig	Full	5647	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/990/125/GCA_029990125.1_ADE.nuclear_genome/
+GCA_029990315.1	Saccharomyces cerevisiae	na	Contig	Full	5792	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/990/315/GCA_029990315.1_CCT_1a.nuclear_genome/
+GCA_029990335.1	Saccharomyces cerevisiae	na	Contig	Full	5725	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/990/335/GCA_029990335.1_AFI.nuclear_genome/
+GCA_029990395.1	Saccharomyces cerevisiae	na	Contig	Full	5729	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/990/395/GCA_029990395.1_CFS.nuclear_genome/
+GCA_029990435.1	Saccharomyces cerevisiae	na	Contig	Full	5681	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/990/435/GCA_029990435.1_CDN_1a.nuclear_genome/
+GCA_029990475.1	Saccharomyces cerevisiae	na	Contig	Full	5690	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/990/475/GCA_029990475.1_CFA.nuclear_genome/
+GCA_029990515.1	Saccharomyces cerevisiae	na	Contig	Full	5710	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/990/515/GCA_029990515.1_ABH.nuclear_genome/
+GCA_029990535.1	Saccharomyces cerevisiae	na	Contig	Full	5775	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/990/535/GCA_029990535.1_AQG_2a.nuclear_genome/
+GCA_029990645.1	Saccharomyces cerevisiae	na	Scaffold	Full	5659	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/990/645/GCA_029990645.1_ADS.nuclear_genome/
+GCA_029990665.1	Saccharomyces cerevisiae	na	Contig	Full	5826	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/990/665/GCA_029990665.1_ALS_1a.nuclear_genome/
+GCA_029990685.1	Saccharomyces cerevisiae	na	Contig	Full	5686	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/990/685/GCA_029990685.1_AIE.nuclear_genome/
+GCA_029990705.1	Saccharomyces cerevisiae	na	Scaffold	Full	5716	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/990/705/GCA_029990705.1_BAP_1a.nuclear_genome/
+GCA_029990725.1	Saccharomyces cerevisiae	na	Scaffold	Full	5769	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/990/725/GCA_029990725.1_CNB_1a.nuclear_genome/
+GCA_029990745.1	Saccharomyces cerevisiae	na	Contig	Full	5669	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/990/745/GCA_029990745.1_CCQ_1a.nuclear_genome/
+GCA_029990765.1	Saccharomyces cerevisiae	na	Contig	Full	5729	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/990/765/GCA_029990765.1_CHS_3a.nuclear_genome/
+GCA_029990785.1	Saccharomyces cerevisiae	na	Scaffold	Full	5670	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/990/785/GCA_029990785.1_CQI_4a.nuclear_genome/
+GCA_029990805.1	Saccharomyces cerevisiae	na	Contig	Full	5620	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/990/805/GCA_029990805.1_AKH_1a.nuclear_genome/
+GCA_029990825.1	Saccharomyces cerevisiae	na	Contig	Full	5791	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/990/825/GCA_029990825.1_AGK.nuclear_genome/
+GCA_029990845.1	Saccharomyces cerevisiae	na	Contig	Full	5747	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/990/845/GCA_029990845.1_CPA_1a.nuclear_genome/
+GCA_029990865.1	Saccharomyces cerevisiae	na	Contig	Full	5753	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/990/865/GCA_029990865.1_CRL.nuclear_genome/
+GCA_029990885.1	Saccharomyces cerevisiae	na	Contig	Full	5744	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/990/885/GCA_029990885.1_CLN.nuclear_genome/
+GCA_029990905.1	Saccharomyces cerevisiae	na	Contig	Full	5709	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/990/905/GCA_029990905.1_BGN_3a.nuclear_genome/
+GCA_029990925.1	Saccharomyces cerevisiae	na	Scaffold	Full	5721	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/990/925/GCA_029990925.1_BDM_1a.nuclear_genome/
+GCA_029990945.1	Saccharomyces cerevisiae	na	Contig	Full	5767	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/990/945/GCA_029990945.1_AEH.nuclear_genome/
+GCA_029990965.1	Saccharomyces cerevisiae	na	Contig	Full	5750	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/990/965/GCA_029990965.1_AAR.nuclear_genome/
+GCA_029991075.1	Saccharomyces cerevisiae	na	Contig	Full	5696	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/991/075/GCA_029991075.1_BGP_1a.nuclear_genome/
+GCA_029991145.1	Saccharomyces cerevisiae	na	Contig	Full	5697	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/991/145/GCA_029991145.1_BCE_3a.nuclear_genome/
+GCA_029991225.1	Saccharomyces cerevisiae	na	Contig	Full	5718	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/991/225/GCA_029991225.1_BMC_2a.nuclear_genome/
+GCA_029991315.1	Saccharomyces cerevisiae	na	Scaffold	Full	5755	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/991/315/GCA_029991315.1_BDC_1c.nuclear_genome/
+GCA_029991355.1	Saccharomyces cerevisiae	na	Contig	Full	5733	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/991/355/GCA_029991355.1_CPG_1a.nuclear_genome/
+GCA_029991395.1	Saccharomyces cerevisiae	na	Scaffold	Full	5728	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/991/395/GCA_029991395.1_CAS_1a.nuclear_genome/
+GCA_029991455.1	Saccharomyces cerevisiae	na	Scaffold	Full	5678	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/991/455/GCA_029991455.1_BAM.nuclear_genome/
+GCA_029991515.1	Saccharomyces cerevisiae	na	Contig	Full	5784	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/991/515/GCA_029991515.1_CRB_1a.nuclear_genome/
+GCA_029991605.1	Saccharomyces cerevisiae	na	Contig	Full	5644	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/991/605/GCA_029991605.1_BAG_1a.nuclear_genome/
+GCA_029991625.1	Saccharomyces cerevisiae	na	Contig	Full	5719	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/991/625/GCA_029991625.1_AIC.nuclear_genome/
+GCA_029991655.1	Saccharomyces cerevisiae	na	Contig	Full	5662	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/991/655/GCA_029991655.1_BAK_1a.nuclear_genome/
+GCA_029991755.1	Saccharomyces cerevisiae	na	Contig	Full	5674	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/991/755/GCA_029991755.1_CEQ_1a.nuclear_genome/
+GCA_029991815.1	Saccharomyces cerevisiae	na	Contig	Full	5784	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/991/815/GCA_029991815.1_ACH.nuclear_genome/
+GCA_029991855.1	Saccharomyces cerevisiae	na	Contig	Full	5732	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/991/855/GCA_029991855.1_CDG_1a.nuclear_genome/
+GCA_029991875.1	Saccharomyces cerevisiae	na	Contig	Full	5766	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/991/875/GCA_029991875.1_AEG.nuclear_genome/
+GCA_030035835.1	Saccharomyces cerevisiae	na	Scaffold	Full	5941	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/035/835/GCA_030035835.1_ADM_collapsed.nuclear_genome/
+GCA_030035855.1	Saccharomyces cerevisiae	na	Scaffold	Full	5772	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/035/855/GCA_030035855.1_AKR_collapsed.nuclear_genome/
+GCA_030035875.1	Saccharomyces cerevisiae	na	Scaffold	Full	5780	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/035/875/GCA_030035875.1_ASN_collapsed.nuclear_genome/
+GCA_030035895.1	Saccharomyces cerevisiae	na	Scaffold	Full	6044	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/035/895/GCA_030035895.1_CBM_collapsed.nuclear_genome/
+GCA_030035915.1	Saccharomyces cerevisiae	na	Scaffold	Full	5868	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/035/915/GCA_030035915.1_CFF_collapsed.nuclear_genome/
+GCA_030035935.1	Saccharomyces cerevisiae	na	Scaffold	Full	5862	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/035/935/GCA_030035935.1_CIC_collapsed.nuclear_genome/
+GCA_030035955.1	Saccharomyces cerevisiae	na	Scaffold	Full	5939	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/035/955/GCA_030035955.1_CNT_collapsed.nuclear_genome/
+GCA_030035975.1	Saccharomyces cerevisiae	na	Scaffold	Full	5765	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/035/975/GCA_030035975.1_AAC_collapsed.nuclear_genome/
+GCA_030035995.1	Saccharomyces cerevisiae	na	Contig	Full	5857	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/035/995/GCA_030035995.1_AEL_collapsed.nuclear_genome/
+GCA_030036015.1	Saccharomyces cerevisiae	na	Contig	Full	5742	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/036/015/GCA_030036015.1_AFH.nuclear_genome/
+GCA_030036035.1	Saccharomyces cerevisiae	na	Scaffold	Full	5961	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/036/035/GCA_030036035.1_AIF_collapsed.nuclear_genome/
+GCA_030036055.1	Saccharomyces cerevisiae	na	Contig	Full	5716	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/036/055/GCA_030036055.1_AIS_collapsed.nuclear_genome/
+GCA_030036075.1	Saccharomyces cerevisiae	na	Scaffold	Full	5863	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/036/075/GCA_030036075.1_ALI_collapsed.nuclear_genome/
+GCA_030036095.2	Saccharomyces cerevisiae	na	Contig	Full	20585	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/036/095/GCA_030036095.2_ANL_HP.nuclear_genome/
+GCA_030036115.2	Saccharomyces cerevisiae	na	Contig	Full	27828	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/036/115/GCA_030036115.2_ANM_HP.nuclear_genome/
+GCA_030036135.2	Saccharomyces cerevisiae	na	Contig	Full	15839	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/036/135/GCA_030036135.2_ATV_HP.nuclear_genome/
+GCA_030036155.2	Saccharomyces cerevisiae	na	Contig	Full	15313	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/036/155/GCA_030036155.2_AVN_HP.nuclear_genome/
+GCA_030036175.2	Saccharomyces cerevisiae	na	Contig	Full	6746	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/036/175/GCA_030036175.2_BAD_HP.nuclear_genome/
+GCA_030036195.1	Saccharomyces cerevisiae	na	Contig	Full	5848	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/036/195/GCA_030036195.1_BAF_collapsed.nuclear_genome/
+GCA_030036215.2	Saccharomyces cerevisiae	na	Contig	Full	17318	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/036/215/GCA_030036215.2_BBT_HP.nuclear_genome/
+GCA_030036235.2	Saccharomyces cerevisiae	na	Contig	Full	17629	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/036/235/GCA_030036235.2_BEM_HP.nuclear_genome/
+GCA_030036255.1	Saccharomyces cerevisiae	na	Contig	Full	5788	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/036/255/GCA_030036255.1_BFH_collapsed.nuclear_genome/
+GCA_030036275.1	Saccharomyces cerevisiae	na	Contig	Full	5703	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/036/275/GCA_030036275.1_BPK_collapsed.nuclear_genome/
+GCA_030036295.2	Saccharomyces cerevisiae	na	Contig	Full	22811	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/036/295/GCA_030036295.2_BTE_HP.nuclear_genome/
+GCA_030036315.2	Saccharomyces cerevisiae	na	Contig	Full	10362	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/036/315/GCA_030036315.2_CFC_HP.nuclear_genome/
+GCA_030036335.2	Saccharomyces cerevisiae	na	Contig	Full	13805	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/036/335/GCA_030036335.2_CGH_1_HP.nuclear_genome/
+GCA_030036355.2	Saccharomyces cerevisiae	na	Contig	Full	4871	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/036/355/GCA_030036355.2_CGH_3_HP.nuclear_genome/
+GCA_030036375.1	Saccharomyces cerevisiae	na	Scaffold	Full	5743	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/036/375/GCA_030036375.1_CIH_collapsed.nuclear_genome/
+GCA_030036395.1	Saccharomyces cerevisiae	na	Contig	Full	5716	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/036/395/GCA_030036395.1_CKB_collapsed.nuclear_genome/
+GCA_030036415.1	Saccharomyces cerevisiae	na	Scaffold	Full	5752	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/036/415/GCA_030036415.1_CLL_collapsed.nuclear_genome/
+GCA_030036435.1	Saccharomyces cerevisiae	na	Contig	Full	5773	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/036/435/GCA_030036435.1_CMF_collapsed.nuclear_genome/
+GCA_030036455.2	Saccharomyces cerevisiae	na	Contig	Full	14996	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/036/455/GCA_030036455.2_CPS_HP.nuclear_genome/
+GCA_030036475.2	Saccharomyces cerevisiae	na	Contig	Full	15245	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/036/475/GCA_030036475.2_CRE_HP.nuclear_genome/
+GCA_030036495.1	Saccharomyces cerevisiae	na	Contig	Full	5902	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/036/495/GCA_030036495.1_BBF_collapsed.nuclear_genome/
+GCA_030267465.1	Saccharomyces cerevisiae	strain=NBRC 1346	Contig	Full	5500	Biological Resource Center, National Institute of Technology and Evaluation (NBRC)	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/267/465/GCA_030267465.1_ASM3026746v1/
+GCA_030267525.1	Saccharomyces cerevisiae	strain=NBRC 2044	Contig	Full	5442	Biological Resource Center, National Institute of Technology and Evaluation (NBRC)	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/267/525/GCA_030267525.1_ASM3026752v1/
+GCA_030267545.1	Saccharomyces cerevisiae	strain=NBRC 110416	Contig	Full	5502	Biological Resource Center, National Institute of Technology and Evaluation (NBRC)	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/267/545/GCA_030267545.1_ASM3026754v1/
+GCA_030267605.1	Saccharomyces cerevisiae	strain=NBRC 2375	Contig	Full	5435	Biological Resource Center, National Institute of Technology and Evaluation (NBRC)	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/267/605/GCA_030267605.1_ASM3026760v1/
+GCA_030267645.1	Saccharomyces cerevisiae	strain=NBRC 2043	Contig	Full	5490	Biological Resource Center, National Institute of Technology and Evaluation (NBRC)	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/267/645/GCA_030267645.1_ASM3026764v1/
+GCA_030292175.1	Saccharomyces cerevisiae	strain=IMX2600	Complete Genome	Full	5533	Delft University of Technology	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/292/175/GCA_030292175.1_ASM3029217v1/
+GCA_045517165.1	Saccharomyces cerevisiae	strain=AA1	Complete Genome	Full	5508	Shanghai Institutes for Biological Sciences (SIBS) of Chinese Academy of Sciences (CAS)	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/045/517/165/GCA_045517165.1_ASM4551716v1/
+GCA_053525345.1	Saccharomyces cerevisiae	strain=I-25	Complete Genome	Full	5283	Institute of Bioengineering, Research Center of Biotechnology of RAS	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/053/525/345/GCA_053525345.1_ASM5352534v1/
+GCA_054130705.1	Saccharomyces cerevisiae	strain=I-118	Complete Genome	Full	5348	Institute of Bioengineering, Research Center of Biotechnology of RAS	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/054/130/705/GCA_054130705.1_ASM5413070v1/
+GCA_057318475.1	Saccharomyces cerevisiae	strain=WUT151	Complete Genome	Full	5139	Warsaw University of Technology	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/057/318/475/GCA_057318475.1_ASM5731847v1/
+GCA_057318525.1	Saccharomyces cerevisiae	strain=WUT3	Complete Genome	Full	5325	Warsaw University of Technology	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/057/318/525/GCA_057318525.1_ASM5731852v1/
+GCA_058969635.1	Saccharomyces cerevisiae	strain=SC8301	Complete Genome	Full	5548	Korea University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/058/969/635/GCA_058969635.1_ASM5896963v1/
+GCA_058969745.1	Saccharomyces cerevisiae	strain=SC8293	Complete Genome	Full	5535	Korea University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/058/969/745/GCA_058969745.1_ASM5896974v1/
+GCA_058969805.1	Saccharomyces cerevisiae	strain=SC8292	Complete Genome	Full	5565	Korea University	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/058/969/805/GCA_058969805.1_ASM5896980v1/
+GCA_903819125.2	Saccharomyces cerevisiae	strain=HN1	Complete Genome	Full	5702	BOISE STATE UNIVERSITY	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/819/125/GCA_903819125.2_HN1_Assembly_v2/
+GCA_903819135.2	Saccharomyces cerevisiae	strain=Y55	Complete Genome	Full	5741	BOISE STATE UNIVERSITY	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/819/135/GCA_903819135.2_Y55_Assembly_v2/
+GCA_903819145.2	Saccharomyces cerevisiae	strain=BJ4	Complete Genome	Full	5672	BOISE STATE UNIVERSITY	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/819/145/GCA_903819145.2_BJ4_Assembly_v2/
+GCA_903819155.2	Saccharomyces cerevisiae	strain=HLJ1	Complete Genome	Full	5725	BOISE STATE UNIVERSITY	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/819/155/GCA_903819155.2_HLJ1_Assembly_v2/
+GCA_903819175.2	Saccharomyces cerevisiae	strain=SX2	Complete Genome	Full	5706	BOISE STATE UNIVERSITY	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/819/175/GCA_903819175.2_SX2_Assembly_v2/
+GCA_903819185.2	Saccharomyces cerevisiae	strain=JXXY16.1	Complete Genome	Full	16	BOISE STATE UNIVERSITY	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/819/185/GCA_903819185.2_JXXY16.1_Assembly_v2/
+GCA_903819195.2	Saccharomyces cerevisiae	strain=XXYS1.4	Complete Genome	Full	5627	BOISE STATE UNIVERSITY	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/819/195/GCA_903819195.2_XXYS1.4_Assembly_v2/
+GCA_903819205.2	Saccharomyces cerevisiae	strain=EM14S01-3B	Complete Genome	Full	5633	BOISE STATE UNIVERSITY	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/819/205/GCA_903819205.2_EM14S01-3B_Assembly_v2/
+GCA_905220315.1	Saccharomyces cerevisiae PE-2	na	Chromosome	Full	5748	INSTITUTE FOR MOLECULAR BIOSCIENCE, UNIVERSITY OF QUEENSLAND	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/220/315/GCA_905220315.1_ScPE_H4_f/
+GCA_905220325.1	Saccharomyces cerevisiae PE-2	na	Chromosome	Full	5732	INSTITUTE FOR MOLECULAR BIOSCIENCE, UNIVERSITY OF QUEENSLAND	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/220/325/GCA_905220325.1_ScPE_H3_f/
+GCA_932563355.1	Saccharomyces cerevisiae	na	Contig	Full	5394	VRIJE UNIVERSITEIT BRUSSEL	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/932/563/355/GCA_932563355.1_CHR4MPN_202011/
+GCA_947369765.1	Saccharomyces cerevisiae	na	Scaffold	Full	5722	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/369/765/GCA_947369765.1_BHH.nuclear_genome/
+GCA_947369785.1	Saccharomyces cerevisiae	na	Contig	Full	5731	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/369/785/GCA_947369785.1_AMM_1a.nuclear_genome/
+GCA_947369795.1	Saccharomyces cerevisiae	na	Contig	Full	5716	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/369/795/GCA_947369795.1_BMB.nuclear_genome/
+GCA_947369855.1	Saccharomyces cerevisiae	na	Contig	Full	5660	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/369/855/GCA_947369855.1_BAL_1a.nuclear_genome/
+GCA_947369865.1	Saccharomyces cerevisiae	na	Contig	Full	5704	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/369/865/GCA_947369865.1_BAQ_1a.nuclear_genome/
+GCA_947369885.1	Saccharomyces cerevisiae	na	Scaffold	Full	5676	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/369/885/GCA_947369885.1_CPI_1c.nuclear_genome/
+GCA_947369935.1	Saccharomyces cerevisiae	na	Scaffold	Full	5720	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/369/935/GCA_947369935.1_AIG.nuclear_genome/
+GCA_947369955.1	Saccharomyces cerevisiae	na	Contig	Full	5692	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/369/955/GCA_947369955.1_BLD_1a.nuclear_genome/
+GCA_947369975.1	Saccharomyces cerevisiae	na	Contig	Full	5663	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/369/975/GCA_947369975.1_AMH_1a.nuclear_genome/
+GCA_947370025.1	Saccharomyces cerevisiae	na	Contig	Full	5700	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/370/025/GCA_947370025.1_BFP_1a.nuclear_genome/
+GCA_947370145.1	Saccharomyces cerevisiae	na	Contig	Full	5714	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/370/145/GCA_947370145.1_AGA_1a.nuclear_genome/
+GCA_947370175.1	Saccharomyces cerevisiae	na	Contig	Full	5679	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/370/175/GCA_947370175.1_AVI_1a.nuclear_genome/
+GCA_947370185.1	Saccharomyces cerevisiae	na	Contig	Full	5728	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/370/185/GCA_947370185.1_AHG.nuclear_genome/
+GCA_947370195.1	Saccharomyces cerevisiae	na	Scaffold	Full	5643	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/370/195/GCA_947370195.1_BAH.nuclear_genome/
+GCA_947370215.1	Saccharomyces cerevisiae	na	Scaffold	Full	5663	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/370/215/GCA_947370215.1_BDN_1c.nuclear_genome/
+GCA_947370245.1	Saccharomyces cerevisiae	na	Contig	Full	5779	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/370/245/GCA_947370245.1_ABA.nuclear_genome/
+GCA_947370255.1	Saccharomyces cerevisiae	na	Contig	Full	5678	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/370/255/GCA_947370255.1_BAI_1a.nuclear_genome/
+GCA_947370275.1	Saccharomyces cerevisiae	na	Contig	Full	5734	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/370/275/GCA_947370275.1_BDF_1d.nuclear_genome/
+GCA_947370305.1	Saccharomyces cerevisiae	na	Contig	Full	5781	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/370/305/GCA_947370305.1_ACA.nuclear_genome/
+GCA_947370325.1	Saccharomyces cerevisiae	na	Contig	Full	5705	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/370/325/GCA_947370325.1_CQS_1a.nuclear_genome/
+GCA_947370345.1	Saccharomyces cerevisiae	na	Contig	Full	5735	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/370/345/GCA_947370345.1_ASG.nuclear_genome/
+GCA_947370365.1	Saccharomyces cerevisiae	na	Scaffold	Full	5683	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/370/365/GCA_947370365.1_BBL.nuclear_genome/
+GCA_947370435.1	Saccharomyces cerevisiae	na	Contig	Full	5661	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/370/435/GCA_947370435.1_BBM_1a.nuclear_genome/
+GCA_947370445.1	Saccharomyces cerevisiae	na	Contig	Full	5814	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/370/445/GCA_947370445.1_ATM_1a.nuclear_genome/
+GCA_947370465.1	Saccharomyces cerevisiae	na	Scaffold	Full	5659	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/370/465/GCA_947370465.1_AVB.nuclear_genome/
+GCA_947370495.1	Saccharomyces cerevisiae	na	Scaffold	Full	5766	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/370/495/GCA_947370495.1_APG.nuclear_genome/
+GCA_947370505.1	Saccharomyces cerevisiae	na	Contig	Full	5662	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/370/505/GCA_947370505.1_CEI_1a.nuclear_genome/
+GCA_947370535.1	Saccharomyces cerevisiae	na	Contig	Full	5718	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/370/535/GCA_947370535.1_CDA.nuclear_genome/
+GCA_947370585.1	Saccharomyces cerevisiae	na	Scaffold	Full	5784	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/370/585/GCA_947370585.1_CBK.nuclear_genome/
+GCA_947370645.1	Saccharomyces cerevisiae	na	Contig	Full	5744	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/370/645/GCA_947370645.1_ALH_1b.nuclear_genome/
+GCA_947370665.1	Saccharomyces cerevisiae	na	Contig	Full	6187	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/370/665/GCA_947370665.1_ADI.nuclear_genome/
+GCA_947370695.2	Saccharomyces cerevisiae	na	Scaffold	Full	5720	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/370/695/GCA_947370695.2_ASB_HP2.nuclear_genome/
+GCA_947370705.1	Saccharomyces cerevisiae	na	Scaffold	Full	5666	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/370/705/GCA_947370705.1_ANE.nuclear_genome/
+GCA_947370715.1	Saccharomyces cerevisiae	na	Contig	Full	5690	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/370/715/GCA_947370715.1_CCN.nuclear_genome/
+GCA_947370785.1	Saccharomyces cerevisiae	na	Contig	Full	5715	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/370/785/GCA_947370785.1_ALH_1c.nuclear_genome/
+GCA_947370805.1	Saccharomyces cerevisiae	na	Contig	Full	5749	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/370/805/GCA_947370805.1_BDH_1b.nuclear_genome/
+GCA_947370825.1	Saccharomyces cerevisiae	na	Scaffold	Full	5690	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/370/825/GCA_947370825.1_ADQ.nuclear_genome/
+GCA_947370875.1	Saccharomyces cerevisiae	na	Contig	Full	5745	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/370/875/GCA_947370875.1_AHL.nuclear_genome/
+GCA_947370885.1	Saccharomyces cerevisiae	na	Contig	Full	5805	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/947/370/885/GCA_947370885.1_BPG.nuclear_genome/
+GCA_949121605.1	Saccharomyces cerevisiae	na	Scaffold	Full	5626	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/121/605/GCA_949121605.1_ALI_HP2.nuclear_genome.ScRAP/
+GCA_949121635.1	Saccharomyces cerevisiae	na	Contig	Full	4680	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/121/635/GCA_949121635.1_CBM_HP2.nuclear_genome.ScRAP/
+GCA_949121655.1	Saccharomyces cerevisiae	na	Contig	Full	5465	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/121/655/GCA_949121655.1_ASN_HP2.nuclear_genome.ScRAP/
+GCA_949121745.1	Saccharomyces cerevisiae	na	Contig	Full	5054	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/121/745/GCA_949121745.1_CLL_HP2.nuclear_genome.ScRAP/
+GCA_949121775.1	Saccharomyces cerevisiae	na	Scaffold	Full	5597	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/121/775/GCA_949121775.1_AIF_HP2.nuclear_genome.ScRAP/
+GCA_949121915.1	Saccharomyces cerevisiae	na	Contig	Full	5194	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/121/915/GCA_949121915.1_ADM_HP2.nuclear_genome.ScRAP/
+GCA_949122005.1	Saccharomyces cerevisiae	na	Contig	Full	5388	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/122/005/GCA_949122005.1_AKR_HP2.nuclear_genome.ScRAP/
+GCA_949122065.1	Saccharomyces cerevisiae	na	Scaffold	Full	5651	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/122/065/GCA_949122065.1_BFH_HP2.nuclear_genome.ScRAP/
+GCA_949122135.1	Saccharomyces cerevisiae	na	Scaffold	Full	5720	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/122/135/GCA_949122135.1_ASB_HP2.nuclear_genome.ScRAP/
+GCA_949122205.1	Saccharomyces cerevisiae	na	Contig	Full	17318	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/122/205/GCA_949122205.1_BBT_HP.nuclear_genome.ScRAP/
+GCA_949122215.1	Saccharomyces cerevisiae	na	Contig	Full	15313	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/122/215/GCA_949122215.1_AVN_HP.nuclear_genome.ScRAP/
+GCA_949122235.1	Saccharomyces cerevisiae	na	Contig	Full	20585	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/122/235/GCA_949122235.1_ANL_HP.nuclear_genome.ScRAP/
+GCA_949122415.1	Saccharomyces cerevisiae	na	Scaffold	Full	5231	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/122/415/GCA_949122415.1_CMF_HP2.nuclear_genome.ScRAP/
+GCA_949122425.1	Saccharomyces cerevisiae	na	Contig	Full	5224	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/122/425/GCA_949122425.1_CKB_HP2.nuclear_genome.ScRAP/
+GCA_949122505.1	Saccharomyces cerevisiae	na	Contig	Full	10362	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/122/505/GCA_949122505.1_CFC_HP.nuclear_genome.ScRAP/
+GCA_949122555.1	Saccharomyces cerevisiae	na	Contig	Full	22811	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/122/555/GCA_949122555.1_BTE_HP.nuclear_genome.ScRAP/
+GCA_949123125.1	Saccharomyces cerevisiae	na	Contig	Full	15245	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/123/125/GCA_949123125.1_CRE_HP.nuclear_genome.ScRAP/
+GCA_949123155.1	Saccharomyces cerevisiae	na	Contig	Full	5514	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/123/155/GCA_949123155.1_CIH_HP2.nuclear_genome.ScRAP/
+GCA_949123195.1	Saccharomyces cerevisiae	na	Contig	Full	5096	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/123/195/GCA_949123195.1_CFF_HP2.nuclear_genome.ScRAP/
+GCA_949123255.1	Saccharomyces cerevisiae	na	Scaffold	Full	5597	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/123/255/GCA_949123255.1_AAC_HP2.nuclear_genome.ScRAP/
+GCA_949123285.1	Saccharomyces cerevisiae	na	Contig	Full	4871	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/123/285/GCA_949123285.1_CGH_3_HP.nuclear_genome.ScRAP/
+GCA_949123295.1	Saccharomyces cerevisiae	na	Contig	Full	5095	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/123/295/GCA_949123295.1_CIC_HP2.nuclear_genome.ScRAP/
+GCA_949123435.1	Saccharomyces cerevisiae	na	Contig	Full	27828	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/123/435/GCA_949123435.1_ANM_HP.nuclear_genome.ScRAP/
+GCA_949123475.1	Saccharomyces cerevisiae	na	Scaffold	Full	5278	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/123/475/GCA_949123475.1_AIS_HP2.nuclear_genome.ScRAP/
+GCA_949123545.1	Saccharomyces cerevisiae	na	Contig	Full	5561	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/123/545/GCA_949123545.1_CNT_HP2.nuclear_genome.ScRAP/
+GCA_949123715.1	Saccharomyces cerevisiae	na	Contig	Full	6746	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/123/715/GCA_949123715.1_BAD_HP.nuclear_genome.ScRAP/
+GCA_949123795.1	Saccharomyces cerevisiae	na	Contig	Full	14996	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/123/795/GCA_949123795.1_CPS_HP.nuclear_genome.ScRAP/
+GCA_949123835.1	Saccharomyces cerevisiae	na	Contig	Full	15839	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/123/835/GCA_949123835.1_ATV_HP.nuclear_genome.ScRAP/
+GCA_949123915.1	Saccharomyces cerevisiae	na	Contig	Full	13805	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/123/915/GCA_949123915.1_CGH_1_HP.nuclear_genome.ScRAP/
+GCA_949123935.1	Saccharomyces cerevisiae	na	Contig	Full	17629	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/123/935/GCA_949123935.1_BEM_HP.nuclear_genome.ScRAP/
+GCA_949123945.1	Saccharomyces cerevisiae	na	Contig	Full	5728	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/123/945/GCA_949123945.1_BAF_HP2.nuclear_genome.ScRAP/
+GCA_949123955.1	Saccharomyces cerevisiae	na	Contig	Full	5466	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/123/955/GCA_949123955.1_AEL_HP2.nuclear_genome.ScRAP/
+GCA_949123965.1	Saccharomyces cerevisiae	na	Contig	Full	5520	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/123/965/GCA_949123965.1_BPK_HP2.nuclear_genome.ScRAP/
+GCA_949123975.1	Saccharomyces cerevisiae	na	Scaffold	Full	5642	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/123/975/GCA_949123975.1_BBF_HP2.nuclear_genome.ScRAP/
+GCA_949124045.1	Saccharomyces cerevisiae	na	Contig	Full	5791	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/045/GCA_949124045.1_AGK.nuclear_genome.ScRAP/
+GCA_949124055.1	Saccharomyces cerevisiae	na	Contig	Full	5766	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/055/GCA_949124055.1_AEG.nuclear_genome.ScRAP/
+GCA_949124075.1	Saccharomyces cerevisiae	na	Contig	Full	5742	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/075/GCA_949124075.1_AFH.nuclear_genome.ScRAP/
+GCA_949124095.1	Saccharomyces cerevisiae	na	Contig	Full	5686	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/095/GCA_949124095.1_AIE.nuclear_genome.ScRAP/
+GCA_949124105.1	Saccharomyces cerevisiae	na	Scaffold	Full	5720	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/105/GCA_949124105.1_AIG.nuclear_genome.ScRAP/
+GCA_949124115.1	Saccharomyces cerevisiae	na	Contig	Full	5741	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/115/GCA_949124115.1_AMP_1a.nuclear_genome.ScRAP/
+GCA_949124125.1	Saccharomyces cerevisiae	na	Contig	Full	5826	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/125/GCA_949124125.1_ALS_1a.nuclear_genome.ScRAP/
+GCA_949124135.1	Saccharomyces cerevisiae	na	Contig	Full	5857	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/135/GCA_949124135.1_AEL_collapsed.nuclear_genome.ScRAP/
+GCA_949124145.1	Saccharomyces cerevisiae	na	Scaffold	Full	5659	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/145/GCA_949124145.1_ADS.nuclear_genome.ScRAP/
+GCA_949124155.1	Saccharomyces cerevisiae	na	Contig	Full	5663	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/155/GCA_949124155.1_AMH_1a.nuclear_genome.ScRAP/
+GCA_949124165.1	Saccharomyces cerevisiae	na	Scaffold	Full	5772	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/165/GCA_949124165.1_AKR_collapsed.nuclear_genome.ScRAP/
+GCA_949124175.1	Saccharomyces cerevisiae	na	Contig	Full	5744	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/175/GCA_949124175.1_ALH_1b.nuclear_genome.ScRAP/
+GCA_949124185.1	Saccharomyces cerevisiae	na	Scaffold	Full	5666	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/185/GCA_949124185.1_ANE.nuclear_genome.ScRAP/
+GCA_949124195.1	Saccharomyces cerevisiae	na	Scaffold	Full	5863	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/195/GCA_949124195.1_ALI_collapsed.nuclear_genome.ScRAP/
+GCA_949124205.1	Saccharomyces cerevisiae	na	Scaffold	Full	5893	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/205/GCA_949124205.1_ANM_collapsed.nuclear_genome.ScRAP/
+GCA_949124215.1	Saccharomyces cerevisiae	na	Scaffold	Full	5690	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/215/GCA_949124215.1_ADQ.nuclear_genome.ScRAP/
+GCA_949124225.1	Saccharomyces cerevisiae	na	Scaffold	Full	5722	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/225/GCA_949124225.1_AAB.nuclear_genome.ScRAP/
+GCA_949124235.1	Saccharomyces cerevisiae	na	Contig	Full	5647	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/235/GCA_949124235.1_ADE.nuclear_genome.ScRAP/
+GCA_949124245.1	Saccharomyces cerevisiae	na	Contig	Full	5714	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/245/GCA_949124245.1_AGA_1a.nuclear_genome.ScRAP/
+GCA_949124255.1	Saccharomyces cerevisiae	na	Contig	Full	5716	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/255/GCA_949124255.1_AIS_collapsed.nuclear_genome.ScRAP/
+GCA_949124265.1	Saccharomyces cerevisiae	na	Contig	Full	5767	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/265/GCA_949124265.1_AEH.nuclear_genome.ScRAP/
+GCA_949124275.1	Saccharomyces cerevisiae	na	Contig	Full	6187	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/275/GCA_949124275.1_ADI.nuclear_genome.ScRAP/
+GCA_949124285.1	Saccharomyces cerevisiae	na	Contig	Full	5620	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/285/GCA_949124285.1_AKH_1a.nuclear_genome.ScRAP/
+GCA_949124295.1	Saccharomyces cerevisiae	na	Contig	Full	5784	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/295/GCA_949124295.1_ACH.nuclear_genome.ScRAP/
+GCA_949124305.1	Saccharomyces cerevisiae	na	Contig	Full	5750	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/305/GCA_949124305.1_AAR.nuclear_genome.ScRAP/
+GCA_949124315.1	Saccharomyces cerevisiae	na	Contig	Full	5781	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/315/GCA_949124315.1_ACA.nuclear_genome.ScRAP/
+GCA_949124325.1	Saccharomyces cerevisiae	na	Contig	Full	5710	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/325/GCA_949124325.1_ABH.nuclear_genome.ScRAP/
+GCA_949124335.1	Saccharomyces cerevisiae	na	Scaffold	Full	5765	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/335/GCA_949124335.1_AAC_collapsed.nuclear_genome.ScRAP/
+GCA_949124345.1	Saccharomyces cerevisiae	na	Contig	Full	5745	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/345/GCA_949124345.1_AHL.nuclear_genome.ScRAP/
+GCA_949124355.1	Saccharomyces cerevisiae	na	Contig	Full	5779	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/355/GCA_949124355.1_ABA.nuclear_genome.ScRAP/
+GCA_949124365.1	Saccharomyces cerevisiae	na	Contig	Full	5719	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/365/GCA_949124365.1_AIC.nuclear_genome.ScRAP/
+GCA_949124375.1	Saccharomyces cerevisiae	na	Scaffold	Full	5941	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/375/GCA_949124375.1_ADM_collapsed.nuclear_genome.ScRAP/
+GCA_949124385.1	Saccharomyces cerevisiae	na	Contig	Full	5715	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/385/GCA_949124385.1_ALH_1c.nuclear_genome.ScRAP/
+GCA_949124395.1	Saccharomyces cerevisiae	na	Contig	Full	5728	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/395/GCA_949124395.1_AHG.nuclear_genome.ScRAP/
+GCA_949124405.1	Saccharomyces cerevisiae	na	Contig	Full	5725	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/405/GCA_949124405.1_AFI.nuclear_genome.ScRAP/
+GCA_949124415.1	Saccharomyces cerevisiae	na	Contig	Full	5847	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/415/GCA_949124415.1_ANL_collapsed.nuclear_genome.ScRAP/
+GCA_949124425.1	Saccharomyces cerevisiae	na	Contig	Full	5731	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/425/GCA_949124425.1_AMM_1a.nuclear_genome.ScRAP/
+GCA_949124435.1	Saccharomyces cerevisiae	na	Scaffold	Full	5961	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/435/GCA_949124435.1_AIF_collapsed.nuclear_genome.ScRAP/
+GCA_949124465.1	Saccharomyces cerevisiae	na	Contig	Full	5662	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/465/GCA_949124465.1_BAK_1a.nuclear_genome.ScRAP/
+GCA_949124475.1	Saccharomyces cerevisiae	na	Contig	Full	5718	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/475/GCA_949124475.1_BMC_2a.nuclear_genome.ScRAP/
+GCA_949124485.1	Saccharomyces cerevisiae	na	Contig	Full	5701	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/485/GCA_949124485.1_AVN_collapsed.nuclear_genome.ScRAP/
+GCA_949124495.1	Saccharomyces cerevisiae	na	Scaffold	Full	5779	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/495/GCA_949124495.1_BBT_collapsed.nuclear_genome.ScRAP/
+GCA_949124505.1	Saccharomyces cerevisiae	na	Scaffold	Full	5678	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/505/GCA_949124505.1_BAM.nuclear_genome.ScRAP/
+GCA_949124515.1	Saccharomyces cerevisiae	na	Contig	Full	5678	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/515/GCA_949124515.1_BAI_1a.nuclear_genome.ScRAP/
+GCA_949124525.1	Saccharomyces cerevisiae	na	Contig	Full	5679	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/525/GCA_949124525.1_BCN.nuclear_genome.ScRAP/
+GCA_949124535.1	Saccharomyces cerevisiae	na	Scaffold	Full	5716	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/535/GCA_949124535.1_BAP_1a.nuclear_genome.ScRAP/
+GCA_949124545.1	Saccharomyces cerevisiae	na	Scaffold	Full	5775	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/545/GCA_949124545.1_ASB_collapsed.nuclear_genome.ScRAP/
+GCA_949124555.1	Saccharomyces cerevisiae	na	Contig	Full	5692	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/555/GCA_949124555.1_BLD_1a.nuclear_genome.ScRAP/
+GCA_949124565.1	Saccharomyces cerevisiae	na	Contig	Full	5734	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/565/GCA_949124565.1_BDF_1d.nuclear_genome.ScRAP/
+GCA_949124575.1	Saccharomyces cerevisiae	na	Scaffold	Full	5766	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/575/GCA_949124575.1_APG.nuclear_genome.ScRAP/
+GCA_949124585.1	Saccharomyces cerevisiae	na	Scaffold	Full	5780	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/585/GCA_949124585.1_ASN_collapsed.nuclear_genome.ScRAP/
+GCA_949124595.1	Saccharomyces cerevisiae	na	Contig	Full	5735	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/595/GCA_949124595.1_ASG.nuclear_genome.ScRAP/
+GCA_949124605.1	Saccharomyces cerevisiae	na	Contig	Full	5716	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/605/GCA_949124605.1_BMB.nuclear_genome.ScRAP/
+GCA_949124615.1	Saccharomyces cerevisiae	na	Contig	Full	5814	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/615/GCA_949124615.1_ATM_1a.nuclear_genome.ScRAP/
+GCA_949124625.1	Saccharomyces cerevisiae	na	Scaffold	Full	5728	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/625/GCA_949124625.1_ATV_collapsed.nuclear_genome.ScRAP/
+GCA_949124635.1	Saccharomyces cerevisiae	na	Scaffold	Full	5643	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/635/GCA_949124635.1_BAH.nuclear_genome.ScRAP/
+GCA_949124645.1	Saccharomyces cerevisiae	na	Scaffold	Full	5683	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/645/GCA_949124645.1_BBL.nuclear_genome.ScRAP/
+GCA_949124655.1	Saccharomyces cerevisiae	na	Contig	Full	5696	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/655/GCA_949124655.1_BGP_1a.nuclear_genome.ScRAP/
+GCA_949124665.1	Saccharomyces cerevisiae	na	Contig	Full	5700	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/665/GCA_949124665.1_BFP_1a.nuclear_genome.ScRAP/
+GCA_949124675.1	Saccharomyces cerevisiae	na	Contig	Full	5709	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/675/GCA_949124675.1_BGN_3a.nuclear_genome.ScRAP/
+GCA_949124685.1	Saccharomyces cerevisiae	na	Contig	Full	5749	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/685/GCA_949124685.1_BDH_1b.nuclear_genome.ScRAP/
+GCA_949124695.1	Saccharomyces cerevisiae	na	Scaffold	Full	5722	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/695/GCA_949124695.1_BHH.nuclear_genome.ScRAP/
+GCA_949124705.1	Saccharomyces cerevisiae	na	Contig	Full	5788	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/705/GCA_949124705.1_BFH_collapsed.nuclear_genome.ScRAP/
+GCA_949124715.1	Saccharomyces cerevisiae	na	Contig	Full	5660	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/715/GCA_949124715.1_BAL_1a.nuclear_genome.ScRAP/
+GCA_949124725.1	Saccharomyces cerevisiae	na	Contig	Full	5704	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/725/GCA_949124725.1_BAQ_1a.nuclear_genome.ScRAP/
+GCA_949124735.1	Saccharomyces cerevisiae	na	Contig	Full	5902	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/735/GCA_949124735.1_BBF_collapsed.nuclear_genome.ScRAP/
+GCA_949124745.1	Saccharomyces cerevisiae	na	Contig	Full	5697	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/745/GCA_949124745.1_BCE_3a.nuclear_genome.ScRAP/
+GCA_949124755.1	Saccharomyces cerevisiae	na	Contig	Full	5661	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/755/GCA_949124755.1_BBM_1a.nuclear_genome.ScRAP/
+GCA_949124765.1	Saccharomyces cerevisiae	na	Contig	Full	5775	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/765/GCA_949124765.1_AQG_2a.nuclear_genome.ScRAP/
+GCA_949124775.1	Saccharomyces cerevisiae	na	Scaffold	Full	5659	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/775/GCA_949124775.1_AVB.nuclear_genome.ScRAP/
+GCA_949124785.1	Saccharomyces cerevisiae	na	Scaffold	Full	5721	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/785/GCA_949124785.1_BDM_1a.nuclear_genome.ScRAP/
+GCA_949124795.1	Saccharomyces cerevisiae	na	Scaffold	Full	5973	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/795/GCA_949124795.1_BEM_collapsed.nuclear_genome.ScRAP/
+GCA_949124805.1	Saccharomyces cerevisiae	na	Scaffold	Full	5755	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/805/GCA_949124805.1_BDC_1c.nuclear_genome.ScRAP/
+GCA_949124815.1	Saccharomyces cerevisiae	na	Scaffold	Full	5663	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/815/GCA_949124815.1_BDN_1c.nuclear_genome.ScRAP/
+GCA_949124825.1	Saccharomyces cerevisiae	na	Contig	Full	5644	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/825/GCA_949124825.1_BAG_1a.nuclear_genome.ScRAP/
+GCA_949124835.1	Saccharomyces cerevisiae	na	Contig	Full	5679	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/835/GCA_949124835.1_AVI_1a.nuclear_genome.ScRAP/
+GCA_949124845.1	Saccharomyces cerevisiae	na	Contig	Full	5805	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/845/GCA_949124845.1_BPG.nuclear_genome.ScRAP/
+GCA_949124855.1	Saccharomyces cerevisiae	na	Contig	Full	5848	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/855/GCA_949124855.1_BAF_collapsed.nuclear_genome.ScRAP/
+GCA_949124865.1	Saccharomyces cerevisiae	na	Contig	Full	5690	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/865/GCA_949124865.1_CFA.nuclear_genome.ScRAP/
+GCA_949124875.1	Saccharomyces cerevisiae	na	Contig	Full	5747	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/875/GCA_949124875.1_CPA_1a.nuclear_genome.ScRAP/
+GCA_949124885.1	Saccharomyces cerevisiae	na	Contig	Full	5662	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/885/GCA_949124885.1_CEI_1a.nuclear_genome.ScRAP/
+GCA_949124895.1	Saccharomyces cerevisiae	na	Contig	Full	5705	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/895/GCA_949124895.1_CQS_1a.nuclear_genome.ScRAP/
+GCA_949124905.1	Saccharomyces cerevisiae	na	Scaffold	Full	5769	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/905/GCA_949124905.1_CNB_1a.nuclear_genome.ScRAP/
+GCA_949124915.1	Saccharomyces cerevisiae	na	Contig	Full	5744	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/915/GCA_949124915.1_CLN.nuclear_genome.ScRAP/
+GCA_949124925.1	Saccharomyces cerevisiae	na	Scaffold	Full	5801	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/925/GCA_949124925.1_BTE_collapsed.nuclear_genome.ScRAP/
+GCA_949124935.1	Saccharomyces cerevisiae	na	Contig	Full	5674	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/935/GCA_949124935.1_CEQ_1a.nuclear_genome.ScRAP/
+GCA_949124945.1	Saccharomyces cerevisiae	na	Scaffold	Full	5862	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/945/GCA_949124945.1_CIC_collapsed.nuclear_genome.ScRAP/
+GCA_949124955.1	Saccharomyces cerevisiae	na	Contig	Full	5687	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/955/GCA_949124955.1_CCC_1a.nuclear_genome.ScRAP/
+GCA_949124965.1	Saccharomyces cerevisiae	na	Contig	Full	5703	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/124/965/GCA_949124965.1_BPK_collapsed.nuclear_genome.ScRAP/
+GCA_949125025.1	Saccharomyces cerevisiae	na	Scaffold	Full	5868	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/125/025/GCA_949125025.1_CFF_collapsed.nuclear_genome.ScRAP/
+GCA_949125035.1	Saccharomyces cerevisiae	na	Scaffold	Full	5775	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/125/035/GCA_949125035.1_CFC_collapsed.nuclear_genome.ScRAP/
+GCA_949125125.1	Saccharomyces cerevisiae	na	Contig	Full	5753	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/125/125/GCA_949125125.1_CRL.nuclear_genome.ScRAP/
+GCA_949125245.1	Saccharomyces cerevisiae	na	Contig	Full	5810	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/125/245/GCA_949125245.1_BAD_collapsed.nuclear_genome.ScRAP/
+GCA_949125275.1	Saccharomyces cerevisiae	na	Contig	Full	5681	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/125/275/GCA_949125275.1_CDN_1a.nuclear_genome.ScRAP/
+GCA_949125285.1	Saccharomyces cerevisiae	na	Scaffold	Full	5681	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/125/285/GCA_949125285.1_CGH_3_collapsed.nuclear_genome.ScRAP/
+GCA_949125295.1	Saccharomyces cerevisiae	na	Scaffold	Full	5846	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/125/295/GCA_949125295.1_CRE_collapsed.nuclear_genome.ScRAP/
+GCA_949125335.1	Saccharomyces cerevisiae	na	Scaffold	Full	5752	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/125/335/GCA_949125335.1_CLL_collapsed.nuclear_genome.ScRAP/
+GCA_949125345.1	Saccharomyces cerevisiae	na	Contig	Full	5773	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/125/345/GCA_949125345.1_CMF_collapsed.nuclear_genome.ScRAP/
+GCA_949125365.1	Saccharomyces cerevisiae	na	Scaffold	Full	5722	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/125/365/GCA_949125365.1_CEL_1a.nuclear_genome.ScRAP/
+GCA_949125375.1	Saccharomyces cerevisiae	na	Contig	Full	5733	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/125/375/GCA_949125375.1_CPG_1a.nuclear_genome.ScRAP/
+GCA_949125415.1	Saccharomyces cerevisiae	na	Contig	Full	5716	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/125/415/GCA_949125415.1_CKB_collapsed.nuclear_genome.ScRAP/
+GCA_949125475.1	Saccharomyces cerevisiae	na	Contig	Full	5690	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/125/475/GCA_949125475.1_CCN.nuclear_genome.ScRAP/
+GCA_949125495.1	Saccharomyces cerevisiae	na	Contig	Full	5792	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/125/495/GCA_949125495.1_CCT_1a.nuclear_genome.ScRAP/
+GCA_949125505.1	Saccharomyces cerevisiae	na	Contig	Full	5669	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/125/505/GCA_949125505.1_CCQ_1a.nuclear_genome.ScRAP/
+GCA_949125565.1	Saccharomyces cerevisiae	na	Contig	Full	5718	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/125/565/GCA_949125565.1_CDA.nuclear_genome.ScRAP/
+GCA_949125665.1	Saccharomyces cerevisiae	na	Scaffold	Full	5728	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/125/665/GCA_949125665.1_CAS_1a.nuclear_genome.ScRAP/
+GCA_949125675.1	Saccharomyces cerevisiae	na	Scaffold	Full	5743	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/125/675/GCA_949125675.1_CIH_collapsed.nuclear_genome.ScRAP/
+GCA_949125725.1	Saccharomyces cerevisiae	na	Contig	Full	5729	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/125/725/GCA_949125725.1_CFS.nuclear_genome.ScRAP/
+GCA_949125735.1	Saccharomyces cerevisiae	na	Scaffold	Full	6044	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/125/735/GCA_949125735.1_CBM_collapsed.nuclear_genome.ScRAP/
+GCA_949125755.1	Saccharomyces cerevisiae	na	Contig	Full	5784	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/125/755/GCA_949125755.1_CRB_1a.nuclear_genome.ScRAP/
+GCA_949125765.1	Saccharomyces cerevisiae	na	Scaffold	Full	5676	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/125/765/GCA_949125765.1_CPI_1c.nuclear_genome.ScRAP/
+GCA_949125775.1	Saccharomyces cerevisiae	na	Contig	Full	5729	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/125/775/GCA_949125775.1_CHS_3a.nuclear_genome.ScRAP/
+GCA_949125785.1	Saccharomyces cerevisiae	na	Scaffold	Full	5952	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/125/785/GCA_949125785.1_CPS_collapsed.nuclear_genome.ScRAP/
+GCA_949125895.1	Saccharomyces cerevisiae	na	Scaffold	Full	5809	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/125/895/GCA_949125895.1_CGH_1_collapsed.nuclear_genome.ScRAP/
+GCA_949125905.1	Saccharomyces cerevisiae	na	Scaffold	Full	5784	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/125/905/GCA_949125905.1_CBK.nuclear_genome.ScRAP/
+GCA_949126015.1	Saccharomyces cerevisiae	na	Scaffold	Full	5670	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/126/015/GCA_949126015.1_CQI_4a.nuclear_genome.ScRAP/
+GCA_949126065.1	Saccharomyces cerevisiae	na	Contig	Full	5732	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/126/065/GCA_949126065.1_CDG_1a.nuclear_genome.ScRAP/
+GCA_949126085.1	Saccharomyces cerevisiae	na	Scaffold	Full	5939	ibps sorbonne universite	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/126/085/GCA_949126085.1_CNT_collapsed.nuclear_genome.ScRAP/
+GCA_965637945.1	Saccharomyces cerevisiae	strain=KFAY2	Contig	Full	5466	VRIJE UNIVERSITEIT BRUSSEL	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/965/637/945/GCA_965637945.1_SCKFAY2_assembly/
+GCA_965637975.1	Saccharomyces cerevisiae	strain=VUB-H027 Y12	Contig	Full	5457	VRIJE UNIVERSITEIT BRUSSEL	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/965/637/975/GCA_965637975.1_SCVUBH027Y12_assembly/
+GCA_965638015.1	Saccharomyces cerevisiae	strain=VUB-H042 Y18	Contig	Full	5461	VRIJE UNIVERSITEIT BRUSSEL	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/965/638/015/GCA_965638015.1_SCVUBH042Y18_assembly/
+GCA_965830275.1	Saccharomyces cerevisiae	strain=UH002_3	Contig	Full	5498	VRIJE UNIVERSITEIT BRUSSEL	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/965/830/275/GCA_965830275.1_SCUH0023_assembly/
+GCA_978019425.1	Saccharomyces cerevisiae	strain=WUT151	Contig	Full	5206	Warsaw University of Technology	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/978/019/425/GCA_978019425.1_WUT151/
+GCA_978019435.1	Saccharomyces cerevisiae	strain=WUT3	Contig	Full	5404	Warsaw University of Technology	na	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/978/019/435/GCA_978019435.1_WUT3/

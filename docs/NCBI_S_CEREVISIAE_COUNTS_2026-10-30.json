@@ -1,0 +1,34 @@
+{
+  "checked_utc": "2026-10-30T03:43:20.991003+00:00",
+  "species_taxid": 4932,
+  "scope": "Latest live NCBI fungi assemblies, species_taxid=4932; includes partial assemblies",
+  "required_files": [
+    "genomic.gff.gz",
+    "cds_from_genomic.fna.gz",
+    "protein.faa.gz"
+  ],
+  "total_records": 1770,
+  "by_database": {
+    "GenBank": 1769,
+    "RefSeq": 1
+  },
+  "eligible_records": 436,
+  "eligible_by_database": {
+    "GenBank": 435,
+    "RefSeq": 1
+  },
+  "eligible_unique_assemblies": 435,
+  "eligible_unique_full_assemblies": 434,
+  "eligible_unique_by_level": {
+    "Chromosome": 114,
+    "Complete Genome": 18,
+    "Scaffold": 95,
+    "Contig": 208
+  },
+  "errors": [],
+  "metadata_annotated_genbank": 435,
+  "summary_sha256": {
+    "genbank": "e014784a822f87146fdc4095e2f4177364f2466963304455d3dade6fee2f73f7",
+    "refseq": "dfd55e976e45cc3ec199f5248533a713307a09b916dd6e9cfe83f3843a205cf1"
+  }
+}

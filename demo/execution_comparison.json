@@ -1,0 +1,200 @@
+{
+  "input_manifest_sha256": "bd0a8262f3550064a28186313a09d64d786910ec80d1592fc9f58321b808bf2c",
+  "runs": [
+    {
+      "mode": "baseline",
+      "report_id": "7956f116d8ad48bf9a6999778391a06e",
+      "status": "complete",
+      "elapsed_seconds": 0.464,
+      "model_calls": 0,
+      "fresh_tools": [
+        "inspect_annotation",
+        "align_candidate_reads",
+        "inspect_read_provenance",
+        "check_neighbor_regions"
+      ],
+      "tool_order": [
+        "lookup_cohort_comparison",
+        "inspect_annotation",
+        "align_candidate_reads",
+        "inspect_read_provenance",
+        "check_neighbor_regions"
+      ],
+      "cited_hypotheses": 0,
+      "citation_membership_valid": true,
+      "guard_interventions": 0,
+      "judgment": {
+        "status": "unresolved",
+        "observation": "Candidate and neighboring genes disagree with selected reads; a local-only explanation is insufficient.",
+        "possible_causes": [
+          "Biological sequence differences",
+          "Assembly or systematic read/alignment effects",
+          "Read dataset / assembly-version mismatch"
+        ],
+        "limitations": [
+          "Reference-selected read subset; depth is not an unbiased whole-run estimate.",
+          "Exact run-to-assembly-version linkage unverified.",
+          "No independent physical read validation or confirmed biological loss."
+        ],
+        "next_checks": [
+          "Verify original run and assembly version records.",
+          "Confirm with independently generated, correctly linked reads.",
+          "Reassess the locus with independent assembly/alignment evidence."
+        ],
+        "evidence_ids": [
+          "E001",
+          "E002",
+          "E003",
+          "E004",
+          "E005"
+        ],
+        "local_only_explanation_supported": false,
+        "causal_diagnosis": "unresolved",
+        "biological_loss_inferred": false
+      }
+    },
+    {
+      "mode": "meta",
+      "report_id": "78626d0beff34e8ab3fd83a2fde2bc8e",
+      "status": "complete",
+      "elapsed_seconds": 38.959,
+      "model_calls": 5,
+      "fresh_tools": [
+        "inspect_annotation",
+        "align_candidate_reads",
+        "inspect_read_provenance",
+        "check_neighbor_regions"
+      ],
+      "tool_order": [
+        "lookup_cohort_comparison",
+        "inspect_annotation",
+        "align_candidate_reads",
+        "inspect_read_provenance",
+        "check_neighbor_regions"
+      ],
+      "cited_hypotheses": 2,
+      "citation_membership_valid": true,
+      "guard_interventions": 0,
+      "judgment": {
+        "status": "unresolved",
+        "observation": "Candidate and neighboring genes disagree with selected reads; a local-only explanation is insufficient.",
+        "possible_causes": [
+          "Biological sequence differences",
+          "Assembly or systematic read/alignment effects",
+          "Read dataset / assembly-version mismatch"
+        ],
+        "limitations": [
+          "Reference-selected read subset; depth is not an unbiased whole-run estimate.",
+          "Exact run-to-assembly-version linkage unverified.",
+          "No independent physical read validation or confirmed biological loss."
+        ],
+        "next_checks": [
+          "Verify original run and assembly version records.",
+          "Confirm with independently generated, correctly linked reads.",
+          "Reassess the locus with independent assembly/alignment evidence."
+        ],
+        "evidence_ids": [
+          "E001",
+          "E002",
+          "E003",
+          "E004",
+          "E005"
+        ],
+        "local_only_explanation_supported": false,
+        "causal_diagnosis": "unresolved",
+        "biological_loss_inferred": false
+      }
+    }
+  ],
+  "deterministic_measurements_equal": true,
+  "measurements": {
+    "candidate_metrics": {
+      "raw_alignment_records": 421,
+      "usable_primary_records": 190,
+      "excluded": {
+        "mapq_filtered_or_unavailable": 4,
+        "flag_filtered": 4
+      },
+      "supplementary_records": 1,
+      "mean_depth": 31.37024513947591,
+      "median_depth": 31,
+      "covered_fraction": 1.0,
+      "mismatch_fraction": 0.030853385788580205,
+      "aligned_callable_bases": 37111,
+      "mismatches": 1145,
+      "insertion_bases": 1,
+      "deletion_bases": 24,
+      "spanning_plus100_records": 0,
+      "spanning_forward": 0,
+      "spanning_reverse": 0,
+      "boundary_clipped_fraction": 0.005263157894736842,
+      "left_flank_mean_depth": 35.9,
+      "right_flank_mean_depth": 32.46,
+      "n_fraction": 0.0
+    },
+    "candidate_signals": [
+      "coherent_substitution_disagreement",
+      "coherent_indel_disagreement"
+    ],
+    "neighbor_metrics": {
+      "nimR": {
+        "raw_alignment_records": 364,
+        "usable_primary_records": 122,
+        "excluded": {
+          "mapq_filtered_or_unavailable": 4,
+          "flag_filtered": 1
+        },
+        "supplementary_records": 0,
+        "mean_depth": 26.913625304136254,
+        "median_depth": 27.0,
+        "covered_fraction": 1.0,
+        "mismatch_fraction": 0.020657234552275913,
+        "aligned_callable_bases": 22123,
+        "mismatches": 457,
+        "insertion_bases": 0,
+        "deletion_bases": 1,
+        "spanning_plus100_records": 0,
+        "spanning_forward": 0,
+        "spanning_reverse": 0,
+        "boundary_clipped_fraction": 0.00819672131147541,
+        "left_flank_mean_depth": 32.68,
+        "right_flank_mean_depth": 29.63,
+        "n_fraction": 0.0
+      },
+      "yeaO": {
+        "raw_alignment_records": 306,
+        "usable_primary_records": 71,
+        "excluded": {
+          "mapq_filtered_or_unavailable": 2,
+          "flag_filtered": 4
+        },
+        "supplementary_records": 1,
+        "mean_depth": 32.985632183908045,
+        "median_depth": 36.0,
+        "covered_fraction": 1.0,
+        "mismatch_fraction": 0.019601010540987892,
+        "aligned_callable_bases": 11479,
+        "mismatches": 225,
+        "insertion_bases": 0,
+        "deletion_bases": 1,
+        "spanning_plus100_records": 0,
+        "spanning_forward": 0,
+        "spanning_reverse": 0,
+        "boundary_clipped_fraction": 0.0,
+        "left_flank_mean_depth": 13.71,
+        "right_flank_mean_depth": 32.96,
+        "n_fraction": 0.0
+      }
+    },
+    "neighbor_signals": {
+      "nimR": [
+        "coherent_substitution_disagreement"
+      ],
+      "yeaO": [
+        "coherent_substitution_disagreement"
+      ]
+    }
+  },
+  "scope": "One curated case, one run per mode; fixed minimum-check policy shared by both modes. Not an accuracy, productivity, independence or causal diagnosis benchmark.",
+  "interpretation": "Same tools generate the evidence. Meta supplies evidence-dependent selection rationales and cited synthesis. Different tool order is not proof of better decisions; equal guarded outcomes are expected under this shared policy."
+}

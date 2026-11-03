@@ -1,0 +1,27 @@
+{
+  "cases": [
+    {
+      "id": "nimt",
+      "title": "Read–assembly 불일치",
+      "assembly": "GCF_001558995.2",
+      "gene": "nimT",
+      "sha256": "a5bc5460e9809e5132423f058e4a386c93632393bb44a051e60b18ee022a1aab"
+    },
+    {
+      "id": "provenance",
+      "title": "완벽한 read 지지도 출처 확인이 필요하다",
+      "assembly": "GCF_013112335.1",
+      "gene": "tonB",
+      "sha256": "2652308b68cc66fd55507b38a3671c5a8a5035901b6f3c3a5a76150410b25801"
+    },
+    {
+      "id": "contamination",
+      "title": "NCBI 오염 양성 데이터로 한계를 확인한다",
+      "assembly": "three external E. coli controls",
+      "gene": "contig-level screening",
+      "sha256": "e849a9d7fa1d70fd9008c30cc9f02cb08f4caf4c29a91ab7b80b12592b7ef8fa"
+    }
+  ],
+  "scope": "Saved real-analysis evidence; no new alignment or model inference is implied by loading snapshots.",
+  "source_data": "Public NCBI/ENA records and locally derived analyses; no raw reads or API keys included."
+}

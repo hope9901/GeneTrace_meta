@@ -1,0 +1,15 @@
+{
+  "verified_utc": "2026-11-03T05:53:42.490116+00:00",
+  "model": "muse-spark-1.3",
+  "case": "nimt",
+  "report_id": "d0fa5fae4c3645ca96f02ca68ac0b8ed",
+  "successful_calls": 4,
+  "evidence_count": 4,
+  "cited_hypotheses": 4,
+  "report_sha256": "a56bd56e185cd7c152ad2c99d3ce9e7c239cd57beca9506cbf52fbd3a6a01b7b",
+  "key_included": false,
+  "snapshot_analysis_lookup_only": true,
+  "new_alignment_performed": false,
+  "causal_diagnosis": "unresolved",
+  "response_language": "en"
+}

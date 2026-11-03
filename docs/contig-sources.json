@@ -1,0 +1,70 @@
+[
+  {
+    "strain": "CLIB215",
+    "accession": "GCA_019394775.1",
+    "assembly_level": "Contig",
+    "annotation_status": "unavailable_in_ncbi_ftp_listing",
+    "query": "S288C ACT1 NP_116614.1",
+    "query_sha256": "15af25ca9f152ed99e4ef43f31af676e0e459223d8710bf8e871a36572cf6d57",
+    "metrics": {
+      "sequence_count": 244,
+      "total_bp": 11295577,
+      "n50_bp": 83712,
+      "n_fraction": 0.0
+    },
+    "files": [
+      {
+        "file": "genomic.fna.gz",
+        "sha256": "fcfc9d567e89c565e947949e0ccf6d9912faac409b32b91622180dbc2f014426",
+        "url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/394/775/GCA_019394775.1_ASM1939477v1/GCA_019394775.1_ASM1939477v1_genomic.fna.gz"
+      },
+      {
+        "file": "assembly_report.txt",
+        "sha256": "15497477b9fdedc207786e173c42c8e7f60f1fb9f947eaaad80e3035c5afa637",
+        "url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/394/775/GCA_019394775.1_ASM1939477v1/GCA_019394775.1_ASM1939477v1_assembly_report.txt"
+      },
+      {
+        "file": "feature_count.txt",
+        "sha256": "c363b8487aea492bb1d62314f2ae523a6816a033fc80965390dacc658099bc6a",
+        "url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/394/775/GCA_019394775.1_ASM1939477v1/GCA_019394775.1_ASM1939477v1_feature_count.txt"
+      }
+    ],
+    "query_selection": "Same preselected ACT1 protein as earlier baseline",
+    "seed_method": "Best observed qualifying TBLASTN HSP, not independent synteny localization",
+    "created_utc": "2026-10-30T03:23:51.173330+00:00"
+  },
+  {
+    "strain": "KACC30049",
+    "accession": "GCA_060154965.1",
+    "assembly_level": "Contig",
+    "annotation_status": "unavailable_in_ncbi_ftp_listing",
+    "query": "S288C ACT1 NP_116614.1",
+    "query_sha256": "15af25ca9f152ed99e4ef43f31af676e0e459223d8710bf8e871a36572cf6d57",
+    "metrics": {
+      "sequence_count": 21,
+      "total_bp": 12073384,
+      "n50_bp": 1090256,
+      "n_fraction": 0.0
+    },
+    "files": [
+      {
+        "file": "genomic.fna.gz",
+        "sha256": "b1d48830cbe6f6cd90fbf6000590628cf082afa6954522e3f3331b75314455b9",
+        "url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/060/154/965/GCA_060154965.1_ASM6015496v1/GCA_060154965.1_ASM6015496v1_genomic.fna.gz"
+      },
+      {
+        "file": "assembly_report.txt",
+        "sha256": "6057cc596624347cf6026d2d9b33a8cb962a371e2e6436db58ab3cabf9fa054b",
+        "url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/060/154/965/GCA_060154965.1_ASM6015496v1/GCA_060154965.1_ASM6015496v1_assembly_report.txt"
+      },
+      {
+        "file": "feature_count.txt",
+        "sha256": "6ef8bc7fcf743c8084d64333a45a2ab1be2bcbaffd133b7e8d3d367c732ccea9",
+        "url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/060/154/965/GCA_060154965.1_ASM6015496v1/GCA_060154965.1_ASM6015496v1_feature_count.txt"
+      }
+    ],
+    "query_selection": "Same preselected ACT1 protein as earlier baseline",
+    "seed_method": "Best observed qualifying TBLASTN HSP, not independent synteny localization",
+    "created_utc": "2026-10-30T03:23:52.186870+00:00"
+  }
+]
