@@ -8,9 +8,9 @@ A gene appears to be missing. Is that biology, or a data problem? GeneTrace inve
 
 Sequencing produces DNA fragments called reads. Assembly reconstructs a genome, and annotation marks gene locations. Think of reconstructing a book and marking its chapters. A missing chapter label does not prove the text is gone.
 
-## Automate the investigation.
+## How Meta powers the agent.
 
-Experts need data collection, computational analysis, and biological interpretation together. Our goal is to automate that investigation. A rare difference can be natural, so the agent must also know when the cause is unresolved.
+Meta's Muse Spark one point three receives the research question, current evidence, and allowed checks. It returns a tool choice, reason, and cited hypotheses. GeneTrace validates the response, executes the check, and sends new evidence back. A final Meta call synthesizes the findings.
 
 ## Public genomes. Selected read checks.
 
@@ -30,11 +30,11 @@ The neighboring genes also disagree. A strictly local assembly error is therefor
 
 ## What does Meta add?
 
-We ran the same case with a fixed policy and with Meta. Both executed four fresh checks and produced equal measurements. Meta added evidence dependent selection reasons and cited synthesis. Both share minimum check safeguards, so this single case does not establish improved accuracy or unique AI discovery.
+We ran the same case with a fixed policy and with Meta. Both executed four fresh checks and produced equal measurements. Four Meta planning calls and one synthesis added selection reasons and cited interpretation. Both share minimum check safeguards, so this single case does not establish improved accuracy or unique AI discovery.
 
-## Show what the evidence can support.
+## Bounded reasoning. Traceable execution.
 
-Population context is still a saved analysis. Fresh execution is enabled for one bounded case. Commands, versions, hashes, and evidence exports make the investigation reviewable. This is a working prototype, not a validated diagnostic system.
+Population context is saved; regional checks are newly executed on a selected subset. Commands, versions, hashes and cited evidence support review. This is a bounded research prototype.
 
 ## Evidence before interpretation.
 

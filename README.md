@@ -8,7 +8,7 @@ Built for the Meta Global AI Developer Hackathon, Indie Dev Track. The investiga
 
 ## Demo video
 
-[Watch or download the 2m54s English video](media/GeneTrace_EN.mp4) · [English subtitles](media/GeneTrace_EN.srt) · [Narration](media/NARRATION_EN.md). Actual execution captures are time-condensed; explanatory cards are interleaved.
+[Watch or download the 2m56s English video](media/GeneTrace_EN.mp4) · [English subtitles](media/GeneTrace_EN.srt) · [Narration](media/NARRATION_EN.md). Actual execution captures are time-condensed; explanatory cards are interleaved. Video files are included in the public repository.
 
 ## Run the small submission demo
 
@@ -39,6 +39,12 @@ The included execution case is **756 paired FASTQ records selected from public E
 `runs/execution/<job-id>/` contains new alignment and analysis artifacts. Exports identify saved population context separately from fresh execution, with commands, tool versions, timings, input hashes and output hashes. Missing tools, altered inputs and API failures fail visibly; there is no silent model-free fallback.
 
 [Paired fixed-policy vs Meta case study](docs/submission/EXECUTION_COMPARISON.md): both modes executed four fresh tools and produced equal deterministic observations. One Meta run used five validated responses. This is a single-case demonstration, not evidence of accuracy or productivity improvement.
+
+## How Meta is used
+
+GeneTrace is a custom agent powered by **Meta Model API, `muse-spark-1.3`**. It is not the Meta AI consumer app or a claimed Meta agent SDK implementation. Each planning call receives the research question, accumulated evidence and currently available tool names. The model returns JSON containing a next-tool choice, a reason, and hypotheses citing evidence IDs. GeneTrace validates the choice and citations, executes fixed allowlisted code, then feeds new evidence back for the next decision.
+
+In the verified fresh nimT run, **four planning responses plus one final synthesis** supported four newly executed checks. Required initial checks, conditional tool availability and the structured judgment remain deterministic safeguards. The model adds evidence-dependent selection rationale and cited interpretation. This single-case comparison does not establish better diagnostic accuracy. [Implementation and actual decision trace](docs/submission/META_AGENT.md).
 
 ## Live Meta integration
 

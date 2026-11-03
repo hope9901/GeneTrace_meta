@@ -27,113 +27,113 @@ Think of reconstructing a book and marking its chapters.
 A missing chapter label does not prove the text is gone.
 
 8
-00:00:25,558 --> 00:00:32,217
-Experts need data collection, computational analysis, and biological interpretation together.
+00:00:25,558 --> 00:00:32,085
+Meta's Muse Spark one point three receives the research question, current evidence, and allowed checks.
 
 9
-00:00:32,217 --> 00:00:34,731
-Our goal is to automate that investigation.
+00:00:32,085 --> 00:00:36,388
+It returns a tool choice, reason, and cited hypotheses.
 
 10
-00:00:34,731 --> 00:00:40,194
-A rare difference can be natural, so the agent must also know when the cause is unresolved.
+00:00:36,388 --> 00:00:41,996
+GeneTrace validates the response, executes the check, and sends new evidence back.
 
 11
-00:00:40,194 --> 00:00:48,669
-We use one hundred quality selected, complete Escherichia coli genomes from NCBI RefSeq, with gene annotations.
+00:00:41,996 --> 00:00:44,951
+A final Meta call synthesizes the findings.
 
 12
-00:00:48,669 --> 00:00:53,145
-MG1655 anchors the comparison panel.
+00:00:44,951 --> 00:00:53,427
+We use one hundred quality selected, complete Escherichia coli genomes from NCBI RefSeq, with gene annotations.
 
 13
-00:00:53,145 --> 00:00:59,518
-For this demonstration, seven hundred fifty six read pairs were selected from a public Illumina run.
+00:00:53,427 --> 00:00:57,903
+MG1655 anchors the comparison panel.
 
 14
-00:00:59,518 --> 00:01:04,948
-This reference selected subset is not whole run quality control or independent validation.
+00:00:57,903 --> 00:01:04,276
+For this demonstration, seven hundred fifty six read pairs were selected from a public Illumina run.
 
 15
-00:01:04,948 --> 00:01:10,765
-We select nimT, a gene with frameshift related annotation, and enable fresh analysis.
+00:01:04,276 --> 00:01:09,706
+This reference selected subset is not whole run quality control or independent validation.
 
 16
-00:01:10,765 --> 00:01:15,109
-Meta requests structural annotation inspection, then read alignment.
+00:01:09,706 --> 00:01:15,522
+We select nimT, a gene with frameshift related annotation, and enable fresh analysis.
 
 17
-00:01:15,109 --> 00:01:23,255
-The application actually executes minimap2 and regional checks on fixed public inputs, and returns newly computed evidence.
+00:01:15,522 --> 00:01:19,866
+Meta requests structural annotation inspection, then read alignment.
 
 18
-00:01:23,255 --> 00:01:25,865
-The candidate disagrees with selected reads.
+00:01:19,866 --> 00:01:28,013
+The application actually executes minimap2 and regional checks on fixed public inputs, and returns newly computed evidence.
 
 19
-00:01:25,865 --> 00:01:29,100
-That observation exposes a neighboring control tool.
+00:01:28,013 --> 00:01:30,622
+The candidate disagrees with selected reads.
 
 20
-00:01:29,100 --> 00:01:32,980
-Meta requests it to investigate whether the discrepancy is local.
+00:01:30,622 --> 00:01:33,858
+That observation exposes a neighboring control tool.
 
 21
-00:01:32,980 --> 00:01:38,363
-The application calculates nimR and yeaO from the new alignment, then updates the judgment.
+00:01:33,858 --> 00:01:37,737
+Meta requests it to investigate whether the discrepancy is local.
 
 22
-00:01:38,363 --> 00:01:42,341
-These are executed checks, not just saved result lookups.
+00:01:37,737 --> 00:01:43,120
+The application calculates nimR and yeaO from the new alignment, then updates the judgment.
 
 23
-00:01:42,341 --> 00:01:44,451
-The neighboring genes also disagree.
+00:01:43,120 --> 00:01:47,098
+These are executed checks, not just saved result lookups.
 
 24
-00:01:44,451 --> 00:01:49,032
-A strictly local assembly error is therefore insufficient as an explanation.
+00:01:47,098 --> 00:01:49,208
+The neighboring genes also disagree.
 
 25
-00:01:49,032 --> 00:01:58,467
-The structured result lists possible biological, assembly, read, or dataset linkage causes, with limitations and next verification.
+00:01:49,208 --> 00:01:53,789
+A strictly local assembly error is therefore insufficient as an explanation.
 
 26
-00:01:58,467 --> 00:02:03,977
-Exact run to assembly version linkage remains unverified; the cause is unresolved.
+00:01:53,789 --> 00:02:03,225
+The structured result lists possible biological, assembly, read, or dataset linkage causes, with limitations and next verification.
 
 27
-00:02:03,977 --> 00:02:07,240
-We ran the same case with a fixed policy and with Meta.
+00:02:03,225 --> 00:02:08,735
+Exact run to assembly version linkage remains unverified; the cause is unresolved.
 
 28
-00:02:07,240 --> 00:02:11,026
-Both executed four fresh checks and produced equal measurements.
+00:02:08,735 --> 00:02:11,997
+We ran the same case with a fixed policy and with Meta.
 
 29
-00:02:11,026 --> 00:02:15,219
-Meta added evidence dependent selection reasons and cited synthesis.
+00:02:11,997 --> 00:02:15,783
+Both executed four fresh checks and produced equal measurements.
 
 30
-00:02:15,219 --> 00:02:22,860
-Both share minimum check safeguards, so this single case does not establish improved accuracy or unique AI discovery.
+00:02:15,783 --> 00:02:21,367
+Four Meta planning calls and one synthesis added selection reasons and cited interpretation.
 
 31
-00:02:22,860 --> 00:02:26,130
-Population context is still a saved analysis.
+00:02:21,367 --> 00:02:29,007
+Both share minimum check safeguards, so this single case does not establish improved accuracy or unique AI discovery.
 
 32
-00:02:26,130 --> 00:02:29,379
-Fresh execution is enabled for one bounded case.
+00:02:29,007 --> 00:02:34,808
+Population context is saved; regional checks are newly executed on a selected subset.
 
 33
-00:02:29,379 --> 00:02:35,273
-Commands, versions, hashes, and evidence exports make the investigation reviewable.
+00:02:34,808 --> 00:02:39,065
+Commands, versions, hashes and cited evidence support review.
 
 34
-00:02:35,273 --> 00:02:39,599
-This is a working prototype, not a validated diagnostic system.
+00:02:39,065 --> 00:02:41,337
+This is a bounded research prototype.
 
 35
-00:02:39,599 --> 00:02:53,973
+00:02:41,337 --> 00:02:55,710
 GeneTrace connects biological context, real analysis execution, and Meta guided interpretation, helping researchers investigate uncertain genome regions before deciding what to trust and what to verify next.
