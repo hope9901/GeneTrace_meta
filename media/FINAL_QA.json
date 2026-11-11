@@ -1,0 +1,13 @@
+{
+  "video_sha256": "144fdb9e7be9e6340a07f4dbe464710e41b5502f7068c6ce6dff5f22c7ce20b3",
+  "duration_seconds": 163.93043083900227,
+  "full_decode_passed": true,
+  "visual_audio_timeline_match": true,
+  "all_11_scenes_extracted": true,
+  "actual_neighbor_decision_and_measurements_shown": true,
+  "reference_gene_function_scope_disclosed": true,
+  "yeaO_function_not_invented": true,
+  "BUSCO_future_only": true,
+  "all_essential_genes_claim": false,
+  "uploaded_to_github": false
+}

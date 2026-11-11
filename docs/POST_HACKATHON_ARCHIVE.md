@@ -1,0 +1,3 @@
+# Post-hackathon archive
+
+Code, documentation, minimal demo inputs, verified reports, and historical research output archives are retained in this repository. See research_archive/manifest.json for output checksums. Exploratory and stopped orthology outputs remain incomplete; archival does not validate biological claims. Full raw downloads, computational runs, and bundled third-party tools were removed locally after the remote archive was verified. Re-running full research analyses requires downloading source data again. The final video is distributed separately and is not in the current repository tree.

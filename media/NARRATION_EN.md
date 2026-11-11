@@ -1,41 +1,45 @@
-# GeneTrace video narration
+# Final submission narration
 
-## GeneTrace
+## Can this genome region be trusted?
 
-A gene appears to be missing. Is that biology, or a data problem? GeneTrace investigates genome reliability before researchers build experiments on an uncertain result.
+A gene looks broken. Is that a real biological difference, or a problem in the data? GeneTrace investigates genome reliability before researchers plan their next experiment.
 
-## A missing label is not a missing gene.
+## A missing label does not prove gene loss.
 
-Sequencing produces DNA fragments called reads. Assembly reconstructs a genome, and annotation marks gene locations. Think of reconstructing a book and marking its chapters. A missing chapter label does not prove the text is gone.
+Sequencing reads DNA pieces. Assembly reconstructs the genome. Annotation labels the genes. Like a book, missing a chapter label does not prove the text is gone.
 
-## How Meta powers the agent.
+## Meta plans. GeneTrace executes and checks.
 
-Meta's Muse Spark one point three receives the research question, current evidence, and allowed checks. It returns a tool choice, reason, and cited hypotheses. GeneTrace validates the response, executes the check, and sends new evidence back. A final Meta call synthesizes the findings.
+Meta's Muse Spark one point three receives the question and evidence. Code defines required checks and allowed choices. Meta selects a check, code executes it, and new results return for interpretation.
 
-## Public genomes. Selected read checks.
+## Public data, with a clearly defined scope.
 
-We use one hundred quality selected, complete Escherichia coli genomes from NCBI RefSeq, with gene annotations. MG1655 anchors the comparison panel. For this demonstration, seven hundred fifty six read pairs were selected from a public Illumina run. This reference selected subset is not whole run quality control or independent validation.
+We use one hundred complete E. coli genomes for comparison context. This demonstration reanalyzes seven hundred fifty six selected public read pairs from one strain. It is not whole run quality control.
 
-## Meta selects a check. Code executes it.
+## Why these three genes?
 
-We select nimT, a gene with frameshift related annotation, and enable fresh analysis. Meta requests structural annotation inspection, then read alignment. The application actually executes minimap2 and regional checks on fixed public inputs, and returns newly computed evidence.
+Nim T is associated with transport of an antibacterial compound. Nim R regulates gene activity. Yea O's function remains unclear. A false broken gene label could misdirect biological research. Here, the neighbors are nearby comparison sites, not assumed error free controls.
 
-## A new result opens a follow-up.
+## The candidate check really executes.
 
-The candidate disagrees with selected reads. That observation exposes a neighboring control tool. Meta requests it to investigate whether the discrepancy is local. The application calculates nimR and yeaO from the new alignment, then updates the judgment. These are executed checks, not just saved result lookups.
+Nim T is labeled as disrupted. GeneTrace runs a fresh read alignment and measures disagreement with the genome. About three percent of compared bases differ. That observation needs context.
 
-## A discrepancy needs context.
+## Meta requests the neighboring check.
 
-The neighboring genes also disagree. A strictly local assembly error is therefore insufficient as an explanation. The structured result lists possible biological, assembly, read, or dataset linkage causes, with limitations and next verification. Exact run to assembly version linkage remains unverified; the cause is unresolved.
+Meta requests nearby genes to test whether the discrepancy is confined to the candidate. The selected check actually runs, and the new evidence updates the assessment.
 
-## What does Meta add?
+## Neighbors disagree too. The cause stays open.
 
-We ran the same case with a fixed policy and with Meta. Both executed four fresh checks and produced equal measurements. Four Meta planning calls and one synthesis added selection reasons and cited interpretation. Both share minimum check safeguards, so this single case does not establish improved accuracy or unique AI discovery.
+Nim R and Yea O also show about two percent disagreement. These data cannot isolate a Nim T specific assembly error. Biological variation, technical effects, or mismatched datasets remain possible.
 
-## Bounded reasoning. Traceable execution.
+## This example demonstrates the working loop.
 
-Population context is saved; regional checks are newly executed on a selected subset. Commands, versions, hashes and cited evidence support review. This is a bounded research prototype.
+This example demonstrates model choice, real analysis, and reassessment. A fixed policy produced the same measurements; Meta adds selection reasons and cited interpretation. Exact read to assembly version linkage remains unverified.
+
+## Next: follow up BUSCO completeness flags.
+
+Next, BUSCO could prioritize apparently missing or fragmented conserved genes for this investigation. These markers are usually present once in related species; they are not all essential genes. This extension is planned, not implemented.
 
 ## Evidence before interpretation.
 
-GeneTrace connects biological context, real analysis execution, and Meta guided interpretation, helping researchers investigate uncertain genome regions before deciding what to trust and what to verify next.
+GeneTrace connects biological context, real analysis, and Meta guided interpretation, helping researchers decide what to trust and what to verify next.

@@ -1,0 +1,68 @@
+[
+  {
+    "scene": 1,
+    "title": "Can this genome region be trusted?",
+    "start_seconds": 0,
+    "end_seconds": 12.765804988662133
+  },
+  {
+    "scene": 2,
+    "title": "A missing label does not prove gene loss.",
+    "start_seconds": 12.765804988662133,
+    "end_seconds": 25.358321995464852
+  },
+  {
+    "scene": 3,
+    "title": "Meta plans. GeneTrace executes and checks.",
+    "start_seconds": 25.358321995464852,
+    "end_seconds": 39.977505668934235
+  },
+  {
+    "scene": 4,
+    "title": "Public data, with a clearly defined scope.",
+    "start_seconds": 39.977505668934235,
+    "end_seconds": 55.054285714285705
+  },
+  {
+    "scene": 5,
+    "title": "Why these three genes?",
+    "start_seconds": 55.054285714285705,
+    "end_seconds": 75.10217687074828
+  },
+  {
+    "scene": 6,
+    "title": "The candidate check really executes.",
+    "start_seconds": 75.10217687074828,
+    "end_seconds": 88.58117913832199
+  },
+  {
+    "scene": 7,
+    "title": "Meta requests the neighboring check.",
+    "start_seconds": 88.58117913832199,
+    "end_seconds": 100.41396825396824
+  },
+  {
+    "scene": 8,
+    "title": "Neighbors disagree too. The cause stays open.",
+    "start_seconds": 100.41396825396824,
+    "end_seconds": 115.67424036281177
+  },
+  {
+    "scene": 9,
+    "title": "This example demonstrates the working loop.",
+    "start_seconds": 115.67424036281177,
+    "end_seconds": 133.05460317460316
+  },
+  {
+    "scene": 10,
+    "title": "Next: follow up BUSCO completeness flags.",
+    "start_seconds": 133.05460317460316,
+    "end_seconds": 150.2024036281179
+  },
+  {
+    "scene": 11,
+    "title": "Evidence before interpretation.",
+    "start_seconds": 150.2024036281179,
+    "end_seconds": 163.93043083900227
+  }
+]

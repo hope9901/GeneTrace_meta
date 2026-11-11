@@ -1,0 +1,149 @@
+[
+  {
+    "title": "Can this genome region be trusted?",
+    "tag": "GENETRACE \u00b7 BEFORE THE BIOLOGICAL CLAIM",
+    "layout": "plain",
+    "points": [
+      "A gene looks broken.",
+      "Is it biology, or a problem in the data?",
+      "Investigate before planning the next experiment."
+    ],
+    "speech": "A gene looks broken. Is that a real biological difference, or a problem in the data? GeneTrace investigates genome reliability before researchers plan their next experiment."
+  },
+  {
+    "title": "A missing label does not prove gene loss.",
+    "tag": "THREE SIMPLE STEPS",
+    "layout": "plain",
+    "points": [
+      "Reads: pieces of DNA sequence",
+      "Assembly: reconstruction of a genome (the organism's DNA)",
+      "Annotation: labels for genes (regions carrying biological instructions)"
+    ],
+    "speech": "Sequencing reads DNA pieces. Assembly reconstructs the genome. Annotation labels the genes. Like a book, missing a chapter label does not prove the text is gone."
+  },
+  {
+    "title": "Meta plans. GeneTrace executes and checks.",
+    "tag": "META MODEL API \u00b7 muse-spark-1.3",
+    "layout": "plain",
+    "points": [
+      "Meta receives the question and available evidence.",
+      "Code defines required checks and allowed choices.",
+      "Meta selects a check; code executes it.",
+      "New results return to Meta for a cited interpretation."
+    ],
+    "speech": "Meta's Muse Spark one point three receives the question and evidence. Code defines required checks and allowed choices. Meta selects a check, code executes it, and new results return for interpretation."
+  },
+  {
+    "title": "Public data, with a clearly defined scope.",
+    "tag": "E. COLI \u00b7 A WELL-STUDIED BACTERIUM",
+    "layout": "plain",
+    "points": [
+      "100 complete NCBI RefSeq genomes: comparison context",
+      "JEONG-1266 \u00b7 GCF_001558995.2: the demonstration case",
+      "756 selected Illumina read pairs \u00b7 SRR2762258",
+      "Regional reanalysis, not whole-run quality control"
+    ],
+    "speech": "We use one hundred complete E. coli genomes for comparison context. This demonstration reanalyzes seven hundred fifty six selected public read pairs from one strain. It is not whole run quality control."
+  },
+  {
+    "title": "Why these three genes?",
+    "tag": "BIOLOGICAL CONTEXT \u00b7 NOT A FUNCTIONAL ASSAY",
+    "layout": "genes",
+    "speech": "Nim T is associated with transport of an antibacterial compound. Nim R regulates gene activity. Yea O's function remains unclear. A false broken gene label could misdirect biological research. Here, the neighbors are nearby comparison sites, not assumed error free controls."
+  },
+  {
+    "title": "The candidate check really executes.",
+    "tag": "RECORDED EXECUTION \u00b7 ACTUAL UI CLOSE-UP",
+    "layout": "capture",
+    "shot": "candidate.png",
+    "crop": [
+      30,
+      345,
+      450,
+      545
+    ],
+    "note": [
+      "Fresh alignment of selected reads",
+      "3.09% mismatch at nimT",
+      "Mismatch = read / genome base disagreement"
+    ],
+    "speech": "Nim T is labeled as disrupted. GeneTrace runs a fresh read alignment and measures disagreement with the genome. About three percent of compared bases differ. That observation needs context."
+  },
+  {
+    "title": "Meta requests the neighboring check.",
+    "tag": "ACTUAL RECORDED DECISION AND EXECUTION",
+    "layout": "capture",
+    "shot": "neighbor_decision.png",
+    "crop": [
+      35,
+      345,
+      448,
+      628
+    ],
+    "note": [
+      "Candidate disagreement observed",
+      "Meta asks for nearby comparison",
+      "Code executes the selected check"
+    ],
+    "speech": "Meta requests nearby genes to test whether the discrepancy is confined to the candidate. The selected check actually runs, and the new evidence updates the assessment."
+  },
+  {
+    "title": "Neighbors disagree too. The cause stays open.",
+    "tag": "NEWLY CALCULATED REGIONAL RESULTS",
+    "layout": "capture",
+    "shot": "neighbor_results.png",
+    "crop": [
+      30,
+      345,
+      450,
+      550
+    ],
+    "note": [
+      "nimT: 3.09% mismatch",
+      "nimR: 2.07% \u00b7 yeaO: 1.96%",
+      "A local-only cause is not established"
+    ],
+    "speech": "Nim R and Yea O also show about two percent disagreement. These data cannot isolate a Nim T specific assembly error. Biological variation, technical effects, or mismatched datasets remain possible."
+  },
+  {
+    "title": "This example demonstrates the working loop.",
+    "tag": "PROTOTYPE BEHAVIOR \u00b7 NOT AN ACCURACY BENCHMARK",
+    "layout": "capture",
+    "shot": "judgment.png",
+    "crop": [
+      43,
+      330,
+      444,
+      610
+    ],
+    "note": [
+      "Model choice \u2192 real tool execution",
+      "New evidence \u2192 provisional reassessment",
+      "Sources and next verification remain visible"
+    ],
+    "speech": "This example demonstrates model choice, real analysis, and reassessment. A fixed policy produced the same measurements; Meta adds selection reasons and cited interpretation. Exact read to assembly version linkage remains unverified."
+  },
+  {
+    "title": "Next: follow up BUSCO completeness flags.",
+    "tag": "FUTURE DIRECTION \u00b7 NOT YET IMPLEMENTED",
+    "layout": "plain",
+    "points": [
+      "BUSCO: conserved genes usually present once in related species",
+      "Investigate apparently missing or fragmented markers",
+      "Connect genome, gene labels and read evidence",
+      "A missing marker is a question, not proof of sequencing error"
+    ],
+    "speech": "Next, BUSCO could prioritize apparently missing or fragmented conserved genes for this investigation. These markers are usually present once in related species; they are not all essential genes. This extension is planned, not implemented."
+  },
+  {
+    "title": "Evidence before interpretation.",
+    "tag": "GENETRACE \u00b7 META HACKATHON",
+    "layout": "plain",
+    "points": [
+      "Bring biological context and computational checks together.",
+      "Show what was found, what remains uncertain, and what to verify.",
+      "github.com/hope9901/GeneTrace_meta"
+    ],
+    "speech": "GeneTrace connects biological context, real analysis, and Meta guided interpretation, helping researchers decide what to trust and what to verify next."
+  }
+]

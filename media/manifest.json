@@ -1,0 +1,10 @@
+{
+  "duration_seconds": 163.93043083900227,
+  "resolution": "1920x1080",
+  "execution_report": "f64d1b2f2a5c4761b1d023d3bd125796",
+  "narration": "macOS Samantha synthesized voice",
+  "presentation": "Actual recorded investigation UI close-ups plus explanatory cards; cropped for legibility; not a new live API run or continuous screen recording",
+  "gene_function_scope": "Reference E. coli biology and distributed JEONG-1266 annotation; no functional phenotype or essentiality assay",
+  "BUSCO": "Future extension; not implemented; conserved markers are not all essential genes",
+  "video_distribution": "Local only. Do not upload MP4 to GitHub."
+}

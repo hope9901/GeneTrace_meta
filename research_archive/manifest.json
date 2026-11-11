@@ -1,0 +1,140 @@
+[
+  {
+    "file": "outputs_README_KO.md.tar.gz",
+    "bytes": 686,
+    "sha256": "fcad87153b569c06081e1e713f5995efa9842f1217af20c166047cbd069eb152",
+    "source": "outputs/README_KO.md"
+  },
+  {
+    "file": "outputs_cohort_comparison_20261102.tar.gz",
+    "bytes": 291003,
+    "sha256": "0e8730af649324a50f64fc733303e5e77bd8ee607b2b1692ae287d9dc1897afc",
+    "source": "outputs/cohort_comparison_20261102"
+  },
+  {
+    "file": "outputs_contamination_validation_20261102.tar.gz",
+    "bytes": 75775,
+    "sha256": "6d9d5b3521edf78153097ffe74bc0f7cf87d1f5aa2face9e346d4e7bbd2b275b",
+    "source": "outputs/contamination_validation_20261102"
+  },
+  {
+    "file": "outputs_domain_bacteria_20261101.tar.gz",
+    "bytes": 2216601,
+    "sha256": "8054c8c67d5109c0c0cda6f9b3c851539eeec2b6934e283e37bf5579348f1fed",
+    "source": "outputs/domain_bacteria_20261101"
+  },
+  {
+    "file": "outputs_ecoli100_candidate_audit_20261102.tar.gz",
+    "bytes": 9927,
+    "sha256": "1f2618f8b677b4baddefa1018de8cc48c443c8b20d1888d87f71ffa2c380c4bb",
+    "source": "outputs/ecoli100_candidate_audit_20261102"
+  },
+  {
+    "file": "outputs_ecoli100_context_20261102.tar.gz",
+    "bytes": 7715,
+    "sha256": "9a0cf3edb3a5675083c5d32e5a3d65b8a7511c5682906132624c469ee137d86b",
+    "source": "outputs/ecoli100_context_20261102"
+  },
+  {
+    "file": "outputs_ecoli100_domains_20261102.tar.gz",
+    "bytes": 204433,
+    "sha256": "e5f4b5e03828f2875b9a99e34524c4c9c0fff312470989317e36ec35b2ee25fa",
+    "source": "outputs/ecoli100_domains_20261102"
+  },
+  {
+    "file": "outputs_ecoli100_gene_groups_20261102.tar.gz",
+    "bytes": 12565055,
+    "sha256": "7a2cab688a80641cda0ca3ad10503bec68b61a3ab505d52f88332e7ebed07a18",
+    "source": "outputs/ecoli100_gene_groups_20261102"
+  },
+  {
+    "file": "outputs_ecoli100_orthology_20261102.tar.gz",
+    "bytes": 1778381,
+    "sha256": "74e17d044254333c4436bc0ba4234c4350565e19582e5bd178fc3f9fd6eb38d8",
+    "source": "outputs/ecoli100_orthology_20261102"
+  },
+  {
+    "file": "outputs_ecoli100_raw_validation_20261102.tar.gz",
+    "bytes": 61707,
+    "sha256": "832917d31be3a3d6b7c8e35fd287ea1da4ca86f1a32b0abb60af154e7e9932f2",
+    "source": "outputs/ecoli100_raw_validation_20261102"
+  },
+  {
+    "file": "outputs_ecoli100_reads_20261102.tar.gz",
+    "bytes": 42826,
+    "sha256": "c1fa1aae5aa24c85c9ff13ff42a55894e00ed7fd893ae00e9cfa08830feb8fa3",
+    "source": "outputs/ecoli100_reads_20261102"
+  },
+  {
+    "file": "outputs_ecoli_followup_20261102.tar.gz",
+    "bytes": 2302,
+    "sha256": "77993b67c4fab9740e72b6237542bc7c7c242fb92727c34562c3a1813846dc45",
+    "source": "outputs/ecoli_followup_20261102"
+  },
+  {
+    "file": "outputs_ecoli_quality100_20261102.tar.gz",
+    "bytes": 2776289,
+    "sha256": "5446fc44db210da40665488f1dace555ed2a25a3c4f5fa0c946f7d713fd72fd1",
+    "source": "outputs/ecoli_quality100_20261102"
+  },
+  {
+    "file": "outputs_execution_comparison_20261103.tar.gz",
+    "bytes": 15655,
+    "sha256": "ed25fdf75bb085541faf1678784d7818a0c72a68df41bb75c57f3220c64a6837",
+    "source": "outputs/execution_comparison_20261103"
+  },
+  {
+    "file": "outputs_loss_artifact_tests_20261030.tar.gz",
+    "bytes": 921658,
+    "sha256": "f934a8960db11611949b8eda8fe5299a211b6dc95b923ee1245add9ff0671620",
+    "source": "outputs/loss_artifact_tests_20261030"
+  },
+  {
+    "file": "outputs_orthology_20261030.tar.gz",
+    "bytes": 365301,
+    "sha256": "d1e6644030c655df6c3ed08aed0d27d4772f8c8e47f0a6d0df8f1579d6afcd71",
+    "source": "outputs/orthology_20261030"
+  },
+  {
+    "file": "outputs_read_dataset_20261030.tar.gz",
+    "bytes": 228891,
+    "sha256": "dfe287a52eaac9e6dc5cb35972d1336b1c31c0fd5e38e743ed11bfafe366d966",
+    "source": "outputs/read_dataset_20261030"
+  },
+  {
+    "file": "outputs_read_qc_HN1_20261030.tar.gz",
+    "bytes": 92306,
+    "sha256": "e1425c988b8953f8801752d329a79284ffaf9b47d4f02046c3797decb135966a",
+    "source": "outputs/read_qc_HN1_20261030"
+  },
+  {
+    "file": "outputs_read_qc_HN1_prefix_20261030.tar.gz",
+    "bytes": 77588,
+    "sha256": "93623cfd930a70a4aadef6881883b5f879492850d7991b60fcb0fa758f54cd8b",
+    "source": "outputs/read_qc_HN1_prefix_20261030"
+  },
+  {
+    "file": "outputs_regional_validation_20261102.tar.gz",
+    "bytes": 1576551,
+    "sha256": "427771f6c8b216f1c8b540de9faada9f18792cf5210aaa15e123f7fb3b3d3bef",
+    "source": "outputs/regional_validation_20261102"
+  },
+  {
+    "file": "outputs_s_cerevisiae_20261030.tar.gz",
+    "bytes": 1758484,
+    "sha256": "ad39efae2bd2f41c85ca50ddcc975c61690f1fdea9a98d980d543a4f303b7740",
+    "source": "outputs/s_cerevisiae_20261030"
+  },
+  {
+    "file": "outputs_s_cerevisiae_methods_20261030.tar.gz",
+    "bytes": 2207606,
+    "sha256": "6abf6f30275bf905d17490616d961bd68b5375f91f0e0071f760711d58bfec84",
+    "source": "outputs/s_cerevisiae_methods_20261030"
+  },
+  {
+    "file": "back_data_20261030_before_read_qc.tar.gz",
+    "bytes": 5083466,
+    "sha256": "71112e36053d660babf2dd66b87338b85e93f49190603c0635bfa2fca563edb1",
+    "source": "back_data/20261030_before_read_qc"
+  }
+]

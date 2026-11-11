@@ -4,7 +4,7 @@ import hashlib,json,pathlib,zipfile
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 def main():
  out=ROOT/'dist';out.mkdir(exist_ok=True);paths=[]
- for name in ['genetrace','web','demo','docs','scripts','tests']:
+ for name in ['genetrace','web','demo','docs','scripts','tests','assets']:
   paths.extend(p for p in (ROOT/name).rglob('*') if p.is_file() and '__pycache__' not in p.parts and p.suffix not in ['.pyc','.zip','.xlsx','.pdf'] and p.stat().st_size<3000000)
  paths.extend(ROOT/name for name in ['README.md','.env.example','.gitignore','requirements-analysis.txt','NOTICE.md'] if (ROOT/name).exists());paths=sorted(set(paths));files=[]
  for p in paths:
